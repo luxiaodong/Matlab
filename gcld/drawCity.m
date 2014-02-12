@@ -2,7 +2,7 @@ function [] = drawCity()
 %DRAWCITY Summary of this function goes here
 %   Detailed explanation goes here
 
-cityPosition = load('data_city.txt');
+cityPosition = load('data/world/data_city.txt');
 
 X = cityPosition(:,2);
 Y = cityPosition(:,3);
