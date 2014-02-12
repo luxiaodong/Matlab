@@ -1,5 +1,5 @@
 local jubenTracePoints = {}
-function jubenTracePoints.elapse_1_3()
+function jubenTracePoints.elapse_141_142()
     local data = {}
     data.count = 13
     data.time = {}
@@ -19,7 +19,7 @@ function jubenTracePoints.elapse_1_3()
     return data
 end
 
-function jubenTracePoints.elapse_3_2()
+function jubenTracePoints.elapse_142_143()
     local data = {}
     data.count = 10
     data.time = {}
@@ -36,7 +36,7 @@ function jubenTracePoints.elapse_3_2()
     return data
 end
 
-function jubenTracePoints.elapse_2_9()
+function jubenTracePoints.elapse_143_144()
     local data = {}
     data.count = 7
     data.time = {}
@@ -50,7 +50,7 @@ function jubenTracePoints.elapse_2_9()
     return data
 end
 
-function jubenTracePoints.elapse_9_11()
+function jubenTracePoints.elapse_144_146()
     local data = {}
     data.count = 8
     data.time = {}
@@ -65,7 +65,7 @@ function jubenTracePoints.elapse_9_11()
     return data
 end
 
-function jubenTracePoints.elapse_11_12()
+function jubenTracePoints.elapse_146_147()
     local data = {}
     data.count = 15
     data.time = {}
@@ -87,7 +87,7 @@ function jubenTracePoints.elapse_11_12()
     return data
 end
 
-function jubenTracePoints.elapse_12_14()
+function jubenTracePoints.elapse_147_149()
     local data = {}
     data.count = 14
     data.time = {}
@@ -108,7 +108,7 @@ function jubenTracePoints.elapse_12_14()
     return data
 end
 
-function jubenTracePoints.elapse_13_14()
+function jubenTracePoints.elapse_148_149()
     local data = {}
     data.count = 10
     data.time = {}
@@ -125,7 +125,7 @@ function jubenTracePoints.elapse_13_14()
     return data
 end
 
-function jubenTracePoints.elapse_14_15()
+function jubenTracePoints.elapse_149_150()
     local data = {}
     data.count = 16
     data.time = {}
@@ -148,7 +148,7 @@ function jubenTracePoints.elapse_14_15()
     return data
 end
 
-function jubenTracePoints.elapse_14_16()
+function jubenTracePoints.elapse_149_151()
     local data = {}
     data.count = 7
     data.time = {}
@@ -162,7 +162,7 @@ function jubenTracePoints.elapse_14_16()
     return data
 end
 
-function jubenTracePoints.elapse_14_4()
+function jubenTracePoints.elapse_149_152()
     local data = {}
     data.count = 12
     data.time = {}
@@ -181,7 +181,7 @@ function jubenTracePoints.elapse_14_4()
     return data
 end
 
-function jubenTracePoints.elapse_9_10()
+function jubenTracePoints.elapse_144_145()
     local data = {}
     data.count = 15
     data.time = {}
@@ -203,7 +203,7 @@ function jubenTracePoints.elapse_9_10()
     return data
 end
 
-function jubenTracePoints.elapse_10_15()
+function jubenTracePoints.elapse_145_150()
     local data = {}
     data.count = 16
     data.time = {}
@@ -226,7 +226,7 @@ function jubenTracePoints.elapse_10_15()
     return data
 end
 
-function jubenTracePoints.elapse_15_6()
+function jubenTracePoints.elapse_150_154()
     local data = {}
     data.count = 7
     data.time = {}
@@ -240,7 +240,7 @@ function jubenTracePoints.elapse_15_6()
     return data
 end
 
-function jubenTracePoints.elapse_16_6()
+function jubenTracePoints.elapse_151_154()
     local data = {}
     data.count = 7
     data.time = {}
@@ -254,7 +254,7 @@ function jubenTracePoints.elapse_16_6()
     return data
 end
 
-function jubenTracePoints.elapse_4_6()
+function jubenTracePoints.elapse_152_154()
     local data = {}
     data.count = 16
     data.time = {}
@@ -277,7 +277,7 @@ function jubenTracePoints.elapse_4_6()
     return data
 end
 
-function jubenTracePoints.elapse_5_6()
+function jubenTracePoints.elapse_153_154()
     local data = {}
     data.count = 20
     data.time = {}
@@ -304,7 +304,7 @@ function jubenTracePoints.elapse_5_6()
     return data
 end
 
-function jubenTracePoints.elapse_6_7()
+function jubenTracePoints.elapse_154_155()
     local data = {}
     data.count = 20
     data.time = {}
@@ -331,7 +331,7 @@ function jubenTracePoints.elapse_6_7()
     return data
 end
 
-function jubenTracePoints.elapse_7_8()
+function jubenTracePoints.elapse_155_156()
     local data = {}
     data.count = 10
     data.time = {}

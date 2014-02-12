@@ -1,5 +1,5 @@
 local jubenTracePoints = {}
-function jubenTracePoints.elapse_10_6()
+function jubenTracePoints.elapse_10903_10907()
     local data = {}
     data.count = 10
     data.time = {}
@@ -16,7 +16,7 @@ function jubenTracePoints.elapse_10_6()
     return data
 end
 
-function jubenTracePoints.elapse_11_9()
+function jubenTracePoints.elapse_10901_10902()
     local data = {}
     data.count = 16
     data.time = {}
@@ -39,7 +39,7 @@ function jubenTracePoints.elapse_11_9()
     return data
 end
 
-function jubenTracePoints.elapse_9_10()
+function jubenTracePoints.elapse_10902_10903()
     local data = {}
     data.count = 11
     data.time = {}
@@ -57,7 +57,7 @@ function jubenTracePoints.elapse_9_10()
     return data
 end
 
-function jubenTracePoints.elapse_9_7()
+function jubenTracePoints.elapse_10902_10904()
     local data = {}
     data.count = 12
     data.time = {}
@@ -76,7 +76,7 @@ function jubenTracePoints.elapse_9_7()
     return data
 end
 
-function jubenTracePoints.elapse_10_4()
+function jubenTracePoints.elapse_10903_10909()
     local data = {}
     data.count = 19
     data.time = {}
@@ -102,7 +102,7 @@ function jubenTracePoints.elapse_10_4()
     return data
 end
 
-function jubenTracePoints.elapse_7_8()
+function jubenTracePoints.elapse_10904_10905()
     local data = {}
     data.count = 13
     data.time = {}
@@ -122,7 +122,7 @@ function jubenTracePoints.elapse_7_8()
     return data
 end
 
-function jubenTracePoints.elapse_7_6()
+function jubenTracePoints.elapse_10904_10907()
     local data = {}
     data.count = 20
     data.time = {}
@@ -149,7 +149,7 @@ function jubenTracePoints.elapse_7_6()
     return data
 end
 
-function jubenTracePoints.elapse_8_5()
+function jubenTracePoints.elapse_10905_10906()
     local data = {}
     data.count = 11
     data.time = {}
@@ -167,7 +167,7 @@ function jubenTracePoints.elapse_8_5()
     return data
 end
 
-function jubenTracePoints.elapse_5_6()
+function jubenTracePoints.elapse_10906_10907()
     local data = {}
     data.count = 11
     data.time = {}
@@ -185,7 +185,7 @@ function jubenTracePoints.elapse_5_6()
     return data
 end
 
-function jubenTracePoints.elapse_6_3()
+function jubenTracePoints.elapse_10907_10908()
     local data = {}
     data.count = 9
     data.time = {}
@@ -201,7 +201,7 @@ function jubenTracePoints.elapse_6_3()
     return data
 end
 
-function jubenTracePoints.elapse_6_1()
+function jubenTracePoints.elapse_10907_10910()
     local data = {}
     data.count = 8
     data.time = {}
@@ -216,7 +216,7 @@ function jubenTracePoints.elapse_6_1()
     return data
 end
 
-function jubenTracePoints.elapse_6_2()
+function jubenTracePoints.elapse_10907_10911()
     local data = {}
     data.count = 11
     data.time = {}
@@ -234,7 +234,7 @@ function jubenTracePoints.elapse_6_2()
     return data
 end
 
-function jubenTracePoints.elapse_3_4()
+function jubenTracePoints.elapse_10908_10909()
     local data = {}
     data.count = 7
     data.time = {}
@@ -248,7 +248,7 @@ function jubenTracePoints.elapse_3_4()
     return data
 end
 
-function jubenTracePoints.elapse_1_12()
+function jubenTracePoints.elapse_10910_10912()
     local data = {}
     data.count = 9
     data.time = {}
@@ -264,7 +264,7 @@ function jubenTracePoints.elapse_1_12()
     return data
 end
 
-function jubenTracePoints.elapse_2_12()
+function jubenTracePoints.elapse_10911_10912()
     local data = {}
     data.count = 9
     data.time = {}

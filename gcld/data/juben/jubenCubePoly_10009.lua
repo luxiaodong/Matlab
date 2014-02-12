@@ -1,5 +1,5 @@
 local jubenCubePoly = {}
-function jubenCubePoly.curve_10_6()
+function jubenCubePoly.curve_10903_10907()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -15,7 +15,7 @@ function jubenCubePoly.curve_10_6()
     return data
 end
 
-function jubenCubePoly.curve_11_9()
+function jubenCubePoly.curve_10901_10902()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -31,7 +31,7 @@ function jubenCubePoly.curve_11_9()
     return data
 end
 
-function jubenCubePoly.curve_9_10()
+function jubenCubePoly.curve_10902_10903()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -47,7 +47,7 @@ function jubenCubePoly.curve_9_10()
     return data
 end
 
-function jubenCubePoly.curve_9_7()
+function jubenCubePoly.curve_10902_10904()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -63,7 +63,7 @@ function jubenCubePoly.curve_9_7()
     return data
 end
 
-function jubenCubePoly.curve_10_4()
+function jubenCubePoly.curve_10903_10909()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -79,7 +79,7 @@ function jubenCubePoly.curve_10_4()
     return data
 end
 
-function jubenCubePoly.curve_7_8()
+function jubenCubePoly.curve_10904_10905()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -95,7 +95,7 @@ function jubenCubePoly.curve_7_8()
     return data
 end
 
-function jubenCubePoly.curve_7_6()
+function jubenCubePoly.curve_10904_10907()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -111,7 +111,7 @@ function jubenCubePoly.curve_7_6()
     return data
 end
 
-function jubenCubePoly.curve_8_5()
+function jubenCubePoly.curve_10905_10906()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -127,7 +127,7 @@ function jubenCubePoly.curve_8_5()
     return data
 end
 
-function jubenCubePoly.curve_5_6()
+function jubenCubePoly.curve_10906_10907()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -143,7 +143,7 @@ function jubenCubePoly.curve_5_6()
     return data
 end
 
-function jubenCubePoly.curve_6_3()
+function jubenCubePoly.curve_10907_10908()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -159,7 +159,7 @@ function jubenCubePoly.curve_6_3()
     return data
 end
 
-function jubenCubePoly.curve_6_1()
+function jubenCubePoly.curve_10907_10910()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -175,7 +175,7 @@ function jubenCubePoly.curve_6_1()
     return data
 end
 
-function jubenCubePoly.curve_6_2()
+function jubenCubePoly.curve_10907_10911()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -191,7 +191,7 @@ function jubenCubePoly.curve_6_2()
     return data
 end
 
-function jubenCubePoly.curve_3_4()
+function jubenCubePoly.curve_10908_10909()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -207,7 +207,7 @@ function jubenCubePoly.curve_3_4()
     return data
 end
 
-function jubenCubePoly.curve_1_12()
+function jubenCubePoly.curve_10910_10912()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -223,7 +223,7 @@ function jubenCubePoly.curve_1_12()
     return data
 end
 
-function jubenCubePoly.curve_2_12()
+function jubenCubePoly.curve_10911_10912()
     local data = {}
     data.rank = 3
     data.x = {}

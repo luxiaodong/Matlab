@@ -1,5 +1,5 @@
 local jubenCubePoly = {}
-function jubenCubePoly.curve_1_9()
+function jubenCubePoly.curve_85_88()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -15,7 +15,7 @@ function jubenCubePoly.curve_1_9()
     return data
 end
 
-function jubenCubePoly.curve_5_2()
+function jubenCubePoly.curve_81_84()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -31,7 +31,7 @@ function jubenCubePoly.curve_5_2()
     return data
 end
 
-function jubenCubePoly.curve_2_4()
+function jubenCubePoly.curve_84_86()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -47,7 +47,7 @@ function jubenCubePoly.curve_2_4()
     return data
 end
 
-function jubenCubePoly.curve_4_3()
+function jubenCubePoly.curve_86_87()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -63,7 +63,7 @@ function jubenCubePoly.curve_4_3()
     return data
 end
 
-function jubenCubePoly.curve_4_9()
+function jubenCubePoly.curve_86_88()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -79,7 +79,7 @@ function jubenCubePoly.curve_4_9()
     return data
 end
 
-function jubenCubePoly.curve_3_9()
+function jubenCubePoly.curve_87_88()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -95,7 +95,7 @@ function jubenCubePoly.curve_3_9()
     return data
 end
 
-function jubenCubePoly.curve_5_7()
+function jubenCubePoly.curve_81_82()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -111,7 +111,7 @@ function jubenCubePoly.curve_5_7()
     return data
 end
 
-function jubenCubePoly.curve_7_6()
+function jubenCubePoly.curve_82_83()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -127,7 +127,7 @@ function jubenCubePoly.curve_7_6()
     return data
 end
 
-function jubenCubePoly.curve_6_1()
+function jubenCubePoly.curve_83_85()
     local data = {}
     data.rank = 3
     data.x = {}
@@ -143,7 +143,7 @@ function jubenCubePoly.curve_6_1()
     return data
 end
 
-function jubenCubePoly.curve_9_8()
+function jubenCubePoly.curve_88_89()
     local data = {}
     data.rank = 3
     data.x = {}

@@ -48,13 +48,13 @@ for i=1:s(1,1)
     end
     
     t = calculatePolyCurveIsometricPoint( p(1,:), p(2,:) );
-    t = cat(2, [citySrc, cityDst], t);
+    t = cat(2, [row(1,1), row(1,2)], t);
     dlmwrite( sprintf('data/juben/timeTable_%d.txt',index),t,'delimiter','\t','newline','pc','-append');
     
     drawPathByPoly(p(1,:), p(2,:));
     drawPoints(x, y);
 
-    p =  cat(2,[citySrc;cityDst], p);
+    p =  cat(2,[row(1,1);row(1,2)], p);
     dlmwrite( sprintf('data/juben/polyTable_%d.txt',index),p,'delimiter','\t','newline','pc','-append');
 end
 
