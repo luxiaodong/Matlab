@@ -6,6 +6,8 @@ if index == 1
     drawWorld();
 elseif index == 2
     drawJuben();
+elseif index == 3
+    drawKFworld();
 end
 
 end
