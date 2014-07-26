@@ -8,6 +8,8 @@ elseif index == 2
     drawJuben();
 elseif index == 3
     drawKFworld();
+elseif index == 4
+    drawTanbao();
 end
 
 end
