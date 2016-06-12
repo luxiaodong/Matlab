@@ -13,6 +13,7 @@ s = size(cityPath);
 for i=1:s(1,1)
     row = cityPath(i,:);
     citySrc = row(1,1);
+    
     x= cityPosition(citySrc,2);
     y= cityPosition(citySrc,3);
     for j=3:s(1,2)

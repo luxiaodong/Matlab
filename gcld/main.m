@@ -10,6 +10,8 @@ elseif index == 3
     drawKFworld();
 elseif index == 4
     drawTanbao();
+elseif index == 5
+    drawJapan();
 end
 
 end
