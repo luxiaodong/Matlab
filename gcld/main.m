@@ -14,6 +14,8 @@ elseif index == 5
     drawJapan();
 elseif index == 6
     drawGaoli();
+elseif index == 7
+    drawYuenan();
 end
 
 end
