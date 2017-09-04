@@ -1,6 +1,6 @@
 function drawJuben()
 
-jubenList = load('data/juben/city_info.txt');
+jubenList = load('data/juben2/city_info.txt');
 
 s = size(jubenList);
 

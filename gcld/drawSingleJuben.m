@@ -1,8 +1,8 @@
 function [] = drawSingleJuben(index, width, height)
     
-cityPosition = load( sprintf('data/juben/city_pos_%d.txt', index) );
+cityPosition = load( sprintf('data/juben2/city_pos_%d.txt', index) );
 
-cityPath = importdata( sprintf('data/juben/city_path_%d.txt', index) );
+cityPath = importdata( sprintf('data/juben2/city_path_%d.txt', index) );
 s = size(cityPath);
 
 % path_poly = [];
@@ -49,13 +49,13 @@ for i=1:s(1,1)
     
     t = calculatePolyCurveIsometricPoint( p(1,:), p(2,:) );
     t = cat(2, [row(1,1), row(1,2)], t);
-    dlmwrite( sprintf('data/juben/timeTable_%d.txt',index),t,'delimiter','\t','newline','pc','-append');
+    dlmwrite( sprintf('data/juben2/timeTable_%d.txt',index),t,'delimiter','\t','newline','pc','-append');
     
     drawPathByPoly(p(1,:), p(2,:));
     drawPoints(x, y);
 
     p =  cat(2,[row(1,1);row(1,2)], p);
-    dlmwrite( sprintf('data/juben/polyTable_%d.txt',index),p,'delimiter','\t','newline','pc','-append');
+    dlmwrite( sprintf('data/juben2/polyTable_%d.txt',index),p,'delimiter','\t','newline','pc','-append');
 end
 
 X = cityPosition(:,2);
