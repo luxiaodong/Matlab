@@ -16,6 +16,8 @@ elseif index == 6
     drawGaoli();
 elseif index == 7
     drawYuenan();
+elseif index == 8
+    drawLiuqiu();
 end
 
 end
