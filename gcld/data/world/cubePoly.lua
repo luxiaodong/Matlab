@@ -136,7 +136,7 @@ function cityPath.curve_5_6()
     cityPath.data.y[0] = 33.565
     cityPath.data.x[1] = 38.839
     cityPath.data.y[1] = -48.115
-    cityPath.data.x[2] = 299.37
+    cityPath.data.x[2] = 299.38
     cityPath.data.y[2] = 43.161
     cityPath.data.x[3] = 430.82
     cityPath.data.y[3] = 2975.2
@@ -346,7 +346,7 @@ function cityPath.curve_49_50()
     cityPath.data.y[1] = -362.6
     cityPath.data.x[2] = 207.83
     cityPath.data.y[2] = -108.16
-    cityPath.data.x[3] = 1264.3
+    cityPath.data.x[3] = 1264.2
     cityPath.data.y[3] = 2048.3
     return cityPath.data
 end
@@ -757,7 +757,7 @@ function cityPath.curve_41_46()
     cityPath.data.x = {}
     cityPath.data.y = {}
     cityPath.data.x[0] = -252
-    cityPath.data.y[0] = 4.1926e-12
+    cityPath.data.y[0] = 1.1615e-11
     cityPath.data.x[1] = 591
     cityPath.data.y[1] = 162.43
     cityPath.data.x[2] = -240.71
@@ -810,7 +810,7 @@ function cityPath.curve_31_33()
     cityPath.data.y[1] = 285.86
     cityPath.data.x[2] = 239
     cityPath.data.y[2] = -246.02
-    cityPath.data.x[3] = 1132.8
+    cityPath.data.x[3] = 1132.7
     cityPath.data.y[3] = 3443
     return cityPath.data
 end
@@ -890,7 +890,7 @@ function cityPath.curve_33_36()
     cityPath.data.y[1] = -56.548
     cityPath.data.x[2] = 235.27
     cityPath.data.y[2] = 13.73
-    cityPath.data.x[3] = 1320.8
+    cityPath.data.x[3] = 1320.7
     cityPath.data.y[3] = 3256
     return cityPath.data
 end
@@ -1590,7 +1590,7 @@ function cityPath.curve_119_120()
     cityPath.data.y = {}
     cityPath.data.x[0] = 219.14
     cityPath.data.y[0] = -6.0631
-    cityPath.data.x[1] = -345.63
+    cityPath.data.x[1] = -345.62
     cityPath.data.y[1] = 55.47
     cityPath.data.x[2] = 380.65
     cityPath.data.y[2] = -67.028
@@ -1626,7 +1626,7 @@ function cityPath.curve_121_123()
     cityPath.data.y[1] = 150.43
     cityPath.data.x[2] = 117.29
     cityPath.data.y[2] = 132.86
-    cityPath.data.x[3] = 3373.8
+    cityPath.data.x[3] = 3373.7
     cityPath.data.y[3] = 3050.6
     return cityPath.data
 end
@@ -2042,7 +2042,7 @@ function cityPath.curve_228_229()
     cityPath.data.y[1] = -122.57
     cityPath.data.x[2] = -490.86
     cityPath.data.y[2] = -104.17
-    cityPath.data.x[3] = 5568.8
+    cityPath.data.x[3] = 5568.7
     cityPath.data.y[3] = 2368.5
     return cityPath.data
 end
@@ -2534,7 +2534,7 @@ function cityPath.curve_215_216()
     cityPath.data.y = {}
     cityPath.data.x[0] = 354.17
     cityPath.data.y[0] = 215.28
-    cityPath.data.x[1] = -303.12
+    cityPath.data.x[1] = -303.13
     cityPath.data.y[1] = -274.7
     cityPath.data.x[2] = 77.53
     cityPath.data.y[2] = -99.385
@@ -2794,7 +2794,7 @@ function cityPath.curve_129_132()
     cityPath.data.y[1] = -232.29
     cityPath.data.x[2] = -84.976
     cityPath.data.y[2] = -104.24
-    cityPath.data.x[3] = 3553.3
+    cityPath.data.x[3] = 3553.2
     cityPath.data.y[3] = 2594.4
     return cityPath.data
 end
@@ -3125,7 +3125,7 @@ function cityPath.curve_162_164()
     cityPath.data.x = {}
     cityPath.data.y = {}
     cityPath.data.x[0] = -126
-    cityPath.data.y[0] = -9.0011e-13
+    cityPath.data.y[0] = 1.5405e-11
     cityPath.data.x[1] = 174.43
     cityPath.data.y[1] = 277.29
     cityPath.data.x[2] = 254.21
@@ -4006,7 +4006,7 @@ function cityPath.curve_233_234()
     cityPath.data.y = {}
     cityPath.data.x[0] = 114.58
     cityPath.data.y[0] = 197.92
-    cityPath.data.x[1] = -128.12
+    cityPath.data.x[1] = -128.13
     cityPath.data.y[1] = -347.32
     cityPath.data.x[2] = -90.387
     cityPath.data.y[2] = -55.952
@@ -4085,7 +4085,7 @@ function cityPath.curve_199_200()
     cityPath.data.x = {}
     cityPath.data.y = {}
     cityPath.data.x[0] = -210
-    cityPath.data.y[0] = 6.5258e-12
+    cityPath.data.y[0] = 3.8277e-12
     cityPath.data.x[1] = 342.43
     cityPath.data.y[1] = 49.714
     cityPath.data.x[2] = -125.88
@@ -4676,8 +4676,8 @@ function cityPath.curve_25_27()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -1.6337e-13
-    cityPath.data.y[0] = 2.51e-12
+    cityPath.data.x[0] = -6.2171e-13
+    cityPath.data.y[0] = 1.7809e-12
     cityPath.data.x[1] = -61
     cityPath.data.y[1] = 48
     cityPath.data.x[2] = 53
@@ -4730,7 +4730,7 @@ function cityPath.curve_24_250()
     cityPath.data.y[1] = 50
     cityPath.data.x[2] = -353.35
     cityPath.data.y[2] = -51.483
-    cityPath.data.x[3] = 520.35
+    cityPath.data.x[3] = 520.34
     cityPath.data.y[3] = 911.71
     return cityPath.data
 end
@@ -4804,8 +4804,8 @@ function cityPath.curve_18_20()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.4358e-12
-    cityPath.data.y[0] = 4.3814e-13
+    cityPath.data.x[0] = -3.0982e-14
+    cityPath.data.y[0] = 1.889e-12
     cityPath.data.x[1] = 70
     cityPath.data.y[1] = 22
     cityPath.data.x[2] = -251
@@ -4900,8 +4900,8 @@ function cityPath.curve_60_99()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 1.7303e-12
-    cityPath.data.y[0] = 8.6143e-13
+    cityPath.data.x[0] = 5.6803e-13
+    cityPath.data.y[0] = -2.0036e-12
     cityPath.data.x[1] = -7
     cityPath.data.y[1] = -10
     cityPath.data.x[2] = 265
@@ -4932,8 +4932,8 @@ function cityPath.curve_101_102()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -1.4351e-12
-    cityPath.data.y[0] = -7.0353e-12
+    cityPath.data.x[0] = 7.901e-12
+    cityPath.data.y[0] = -2.7006e-12
     cityPath.data.x[1] = 12
     cityPath.data.y[1] = 6
     cityPath.data.x[2] = -91
@@ -5028,8 +5028,8 @@ function cityPath.curve_109_111()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 8.6737e-12
-    cityPath.data.y[0] = -3.9358e-13
+    cityPath.data.x[0] = 2.922e-12
+    cityPath.data.y[0] = 1.283e-12
     cityPath.data.x[1] = -97
     cityPath.data.y[1] = -23
     cityPath.data.x[2] = 171
@@ -5044,8 +5044,8 @@ function cityPath.curve_111_149()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 1.633e-11
-    cityPath.data.y[0] = -8.6143e-13
+    cityPath.data.x[0] = -1.1752e-11
+    cityPath.data.y[0] = -1.693e-12
     cityPath.data.x[1] = -34
     cityPath.data.y[1] = 105
     cityPath.data.x[2] = 339
@@ -5076,8 +5076,8 @@ function cityPath.curve_29_30()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.9407e-12
-    cityPath.data.y[0] = -0
+    cityPath.data.x[0] = -1.0987e-12
+    cityPath.data.y[0] = 1.6315e-13
     cityPath.data.x[1] = 4
     cityPath.data.y[1] = 24
     cityPath.data.x[2] = 157
@@ -5092,8 +5092,8 @@ function cityPath.curve_28_30()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 1.6115e-12
-    cityPath.data.y[0] = -1.5372e-12
+    cityPath.data.x[0] = 2.5864e-12
+    cityPath.data.y[0] = 2.6501e-12
     cityPath.data.x[1] = -30
     cityPath.data.y[1] = 30
     cityPath.data.x[2] = -17
@@ -5124,8 +5124,8 @@ function cityPath.curve_24_26()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.6734e-13
-    cityPath.data.y[0] = -7.4261e-13
+    cityPath.data.x[0] = 2.4712e-13
+    cityPath.data.y[0] = 1.3402e-12
     cityPath.data.x[1] = 170
     cityPath.data.y[1] = 50
     cityPath.data.x[2] = 65
@@ -5156,8 +5156,8 @@ function cityPath.curve_19_21()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 3.5645e-13
-    cityPath.data.y[0] = -4.7007e-12
+    cityPath.data.x[0] = -2.0864e-13
+    cityPath.data.y[0] = -4.017e-12
     cityPath.data.x[1] = -191
     cityPath.data.y[1] = 34
     cityPath.data.x[2] = 203
@@ -5172,8 +5172,8 @@ function cityPath.curve_17_19()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -1.0397e-12
-    cityPath.data.y[0] = 2.1387e-12
+    cityPath.data.x[0] = -5.8883e-13
+    cityPath.data.y[0] = -1.7738e-12
     cityPath.data.x[1] = 76
     cityPath.data.y[1] = 77
     cityPath.data.x[2] = 101
@@ -5188,8 +5188,8 @@ function cityPath.curve_16_19()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.2497e-12
-    cityPath.data.y[0] = -6.9509e-12
+    cityPath.data.x[0] = -8.3963e-13
+    cityPath.data.y[0] = 6.6557e-12
     cityPath.data.x[1] = 2
     cityPath.data.y[1] = 37
     cityPath.data.x[2] = -127
@@ -5204,8 +5204,8 @@ function cityPath.curve_19_20()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -1.3367e-13
-    cityPath.data.y[0] = 5.7924e-12
+    cityPath.data.x[0] = -1.184e-13
+    cityPath.data.y[0] = 1.6884e-12
     cityPath.data.x[1] = -73
     cityPath.data.y[1] = -63
     cityPath.data.x[2] = 381
@@ -5220,8 +5220,8 @@ function cityPath.curve_20_21()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 3.4903e-13
-    cityPath.data.y[0] = -6.6835e-13
+    cityPath.data.x[0] = 5.1166e-13
+    cityPath.data.y[0] = 1.6841e-13
     cityPath.data.x[1] = 31
     cityPath.data.y[1] = -79
     cityPath.data.x[2] = -327
@@ -5236,8 +5236,8 @@ function cityPath.curve_20_54()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.5249e-12
-    cityPath.data.y[0] = -2.9445e-12
+    cityPath.data.x[0] = -9.7171e-13
+    cityPath.data.y[0] = -2.5403e-12
     cityPath.data.x[1] = 10
     cityPath.data.y[1] = -15
     cityPath.data.x[2] = 363
@@ -5268,8 +5268,8 @@ function cityPath.curve_54_57()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.0273e-12
-    cityPath.data.y[0] = 4.6488e-12
+    cityPath.data.x[0] = -1.3496e-12
+    cityPath.data.y[0] = 1.279e-12
     cityPath.data.x[1] = -41
     cityPath.data.y[1] = -47
     cityPath.data.x[2] = 267
@@ -5300,8 +5300,8 @@ function cityPath.curve_55_57()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.3764e-13
-    cityPath.data.y[0] = 5.0498e-13
+    cityPath.data.x[0] = 3.1637e-12
+    cityPath.data.y[0] = -2.3464e-12
     cityPath.data.x[1] = -140
     cityPath.data.y[1] = 32
     cityPath.data.x[2] = 313
@@ -5316,8 +5316,8 @@ function cityPath.curve_23_55()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 7.5747e-13
-    cityPath.data.y[0] = -2.6437e-12
+    cityPath.data.x[0] = -1.8836e-12
+    cityPath.data.y[0] = -2.7625e-12
     cityPath.data.x[1] = -98
     cityPath.data.y[1] = 124
     cityPath.data.x[2] = 391
@@ -5348,8 +5348,8 @@ function cityPath.curve_26_62()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.1981e-12
-    cityPath.data.y[0] = -8.6143e-13
+    cityPath.data.x[0] = 4.1963e-12
+    cityPath.data.y[0] = -1.465e-12
     cityPath.data.x[1] = 207
     cityPath.data.y[1] = 176
     cityPath.data.x[2] = 153
@@ -5380,8 +5380,8 @@ function cityPath.curve_30_71()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -5.3375e-13
-    cityPath.data.y[0] = -1.4258e-12
+    cityPath.data.x[0] = -1.2906e-12
+    cityPath.data.y[0] = 1.0394e-13
     cityPath.data.x[1] = 5
     cityPath.data.y[1] = 61
     cityPath.data.x[2] = 277
@@ -5412,8 +5412,8 @@ function cityPath.curve_73_75()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -4.3369e-12
-    cityPath.data.y[0] = 2.9705e-13
+    cityPath.data.x[0] = 1.2982e-12
+    cityPath.data.y[0] = -5.681e-13
     cityPath.data.x[1] = -105
     cityPath.data.y[1] = -29
     cityPath.data.x[2] = 267
@@ -5460,8 +5460,8 @@ function cityPath.curve_67_74()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.9705e-14
-    cityPath.data.y[0] = -1.2476e-12
+    cityPath.data.x[0] = -2.9632e-13
+    cityPath.data.y[0] = 5.9032e-13
     cityPath.data.x[1] = 183
     cityPath.data.y[1] = 121
     cityPath.data.x[2] = -163
@@ -5476,8 +5476,8 @@ function cityPath.curve_67_73()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -3.8319e-12
-    cityPath.data.y[0] = -3.3343e-12
+    cityPath.data.x[0] = -8.7891e-13
+    cityPath.data.y[0] = -1.9526e-12
     cityPath.data.x[1] = 148
     cityPath.data.y[1] = -32
     cityPath.data.x[2] = -363
@@ -5492,8 +5492,8 @@ function cityPath.curve_72_73()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -4.3963e-12
-    cityPath.data.y[0] = 1.8194e-12
+    cityPath.data.x[0] = -5.3362e-13
+    cityPath.data.y[0] = -1.0141e-12
     cityPath.data.x[1] = -90
     cityPath.data.y[1] = -56
     cityPath.data.x[2] = 147
@@ -5540,8 +5540,8 @@ function cityPath.curve_55_63()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 7.1142e-12
-    cityPath.data.y[0] = -2.7217e-12
+    cityPath.data.x[0] = -1.0735e-12
+    cityPath.data.y[0] = -2.9835e-13
     cityPath.data.x[1] = 70
     cityPath.data.y[1] = 27
     cityPath.data.x[2] = 171
@@ -5556,8 +5556,8 @@ function cityPath.curve_62_63()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 4.1586e-13
-    cityPath.data.y[0] = 1.9605e-12
+    cityPath.data.x[0] = -9.5356e-13
+    cityPath.data.y[0] = -2.8898e-13
     cityPath.data.x[1] = -293
     cityPath.data.y[1] = -59
     cityPath.data.x[2] = 571
@@ -5588,8 +5588,8 @@ function cityPath.curve_64_72()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.6883e-12
-    cityPath.data.y[0] = -2.0552e-12
+    cityPath.data.x[0] = -1.5553e-12
+    cityPath.data.y[0] = 9.0398e-13
     cityPath.data.x[1] = 108
     cityPath.data.y[1] = 6
     cityPath.data.x[2] = -115
@@ -5604,8 +5604,8 @@ function cityPath.curve_63_64()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 8.3173e-13
-    cityPath.data.y[0] = 3.5645e-13
+    cityPath.data.x[0] = -6.3376e-12
+    cityPath.data.y[0] = 6.6159e-13
     cityPath.data.x[1] = -149
     cityPath.data.y[1] = -86
     cityPath.data.x[2] = 167
@@ -5620,8 +5620,8 @@ function cityPath.curve_64_66()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.5249e-12
-    cityPath.data.y[0] = 5.3468e-13
+    cityPath.data.x[0] = 4.1745e-12
+    cityPath.data.y[0] = 7.2494e-13
     cityPath.data.x[1] = -119
     cityPath.data.y[1] = 62
     cityPath.data.x[2] = 373
@@ -5636,8 +5636,8 @@ function cityPath.curve_66_67()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 6.082e-12
-    cityPath.data.y[0] = 1.0582e-12
+    cityPath.data.x[0] = 3.7917e-12
+    cityPath.data.y[0] = 2.1057e-12
     cityPath.data.x[1] = 24
     cityPath.data.y[1] = 22
     cityPath.data.x[2] = -13
@@ -5652,8 +5652,8 @@ function cityPath.curve_58_60()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -3.1932e-12
-    cityPath.data.y[0] = 1.1288e-12
+    cityPath.data.x[0] = 5.0337e-12
+    cityPath.data.y[0] = -4.6786e-12
     cityPath.data.x[1] = 60
     cityPath.data.y[1] = 97
     cityPath.data.x[2] = 183
@@ -5668,8 +5668,8 @@ function cityPath.curve_60_61()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 6.9806e-12
-    cityPath.data.y[0] = 3.817e-12
+    cityPath.data.x[0] = -3.2059e-13
+    cityPath.data.y[0] = 4.4194e-13
     cityPath.data.x[1] = -84
     cityPath.data.y[1] = 35
     cityPath.data.x[2] = -21
@@ -5684,8 +5684,8 @@ function cityPath.curve_59_61()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -4.1438e-12
-    cityPath.data.y[0] = -3.416e-12
+    cityPath.data.x[0] = -1.9963e-12
+    cityPath.data.y[0] = 5.0296e-12
     cityPath.data.x[1] = 63
     cityPath.data.y[1] = -40
     cityPath.data.x[2] = 145
@@ -5700,8 +5700,8 @@ function cityPath.curve_57_59()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.9816e-12
-    cityPath.data.y[0] = -2.9556e-12
+    cityPath.data.x[0] = 6.9259e-13
+    cityPath.data.y[0] = 2.0461e-12
     cityPath.data.x[1] = -19
     cityPath.data.y[1] = -43
     cityPath.data.x[2] = 229
@@ -5716,9 +5716,9 @@ function cityPath.curve_61_102()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.5647e-12
-    cityPath.data.y[0] = 7.7232e-13
-    cityPath.data.x[1] = -3.0281e-12
+    cityPath.data.x[0] = 2.8653e-12
+    cityPath.data.y[0] = 1.4263e-12
+    cityPath.data.x[1] = -3.0452e-12
     cityPath.data.y[1] = -278
     cityPath.data.x[2] = 581
     cityPath.data.y[2] = 236
@@ -5732,8 +5732,8 @@ function cityPath.curve_59_65()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -9.2084e-13
-    cityPath.data.y[0] = 9.2084e-13
+    cityPath.data.x[0] = 1.8522e-12
+    cityPath.data.y[0] = -2.5937e-12
     cityPath.data.x[1] = -150
     cityPath.data.y[1] = -22
     cityPath.data.x[2] = 351
@@ -5748,8 +5748,8 @@ function cityPath.curve_61_68()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 5.9112e-12
-    cityPath.data.y[0] = 4.6701e-12
+    cityPath.data.x[0] = 1.6517e-12
+    cityPath.data.y[0] = 2.4765e-12
     cityPath.data.x[1] = -137
     cityPath.data.y[1] = 4
     cityPath.data.x[2] = 355
@@ -5764,8 +5764,8 @@ function cityPath.curve_65_68()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 6.3568e-12
-    cityPath.data.y[0] = 9.2084e-13
+    cityPath.data.x[0] = -7.4957e-13
+    cityPath.data.y[0] = 2e-12
     cityPath.data.x[1] = 132
     cityPath.data.y[1] = 84
     cityPath.data.x[2] = 93
@@ -5780,8 +5780,8 @@ function cityPath.curve_102_104()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 2.0273e-12
-    cityPath.data.y[0] = -4.6042e-13
+    cityPath.data.x[0] = -2.2728e-12
+    cityPath.data.y[0] = 3.1169e-12
     cityPath.data.x[1] = -25
     cityPath.data.y[1] = -42
     cityPath.data.x[2] = 225
@@ -5812,8 +5812,8 @@ function cityPath.curve_68_100()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -3.5497e-12
-    cityPath.data.y[0] = -3.5051e-12
+    cityPath.data.x[0] = -2.4912e-12
+    cityPath.data.y[0] = -4.6872e-12
     cityPath.data.x[1] = -63
     cityPath.data.y[1] = 81
     cityPath.data.x[2] = 289
@@ -5828,8 +5828,8 @@ function cityPath.curve_68_69()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -4.9161e-12
-    cityPath.data.y[0] = -4.0779e-12
+    cityPath.data.x[0] = -1.1218e-12
+    cityPath.data.y[0] = -1.8306e-12
     cityPath.data.x[1] = 65
     cityPath.data.y[1] = -4
     cityPath.data.x[2] = -213
@@ -5844,8 +5844,8 @@ function cityPath.curve_66_69()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 4.1883e-12
-    cityPath.data.y[0] = -7.1662e-12
+    cityPath.data.x[0] = -1.9117e-12
+    cityPath.data.y[0] = 1.7342e-12
     cityPath.data.x[1] = -127
     cityPath.data.y[1] = 54
     cityPath.data.x[2] = 275
@@ -5892,8 +5892,8 @@ function cityPath.curve_70_112()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 4.3517e-12
-    cityPath.data.y[0] = 1.9289e-12
+    cityPath.data.x[0] = -6.7752e-12
+    cityPath.data.y[0] = 4.5467e-13
     cityPath.data.x[1] = -97
     cityPath.data.y[1] = -12
     cityPath.data.x[2] = 151
@@ -5908,8 +5908,8 @@ function cityPath.curve_109_110()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 1.4082e-12
-    cityPath.data.y[0] = -2.2278e-14
+    cityPath.data.x[0] = -3.5479e-12
+    cityPath.data.y[0] = -1.6192e-12
     cityPath.data.x[1] = -2
     cityPath.data.y[1] = 37
     cityPath.data.x[2] = -171
@@ -5940,8 +5940,8 @@ function cityPath.curve_107_110()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 6.6984e-12
-    cityPath.data.y[0] = -2.4358e-12
+    cityPath.data.x[0] = -2.3524e-12
+    cityPath.data.y[0] = -1.2271e-12
     cityPath.data.x[1] = -52
     cityPath.data.y[1] = 164
     cityPath.data.x[2] = 351
@@ -5956,8 +5956,8 @@ function cityPath.curve_107_108()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -4.3777e-12
-    cityPath.data.y[0] = 1.7173e-12
+    cityPath.data.x[0] = -4.1453e-12
+    cityPath.data.y[0] = -1.1488e-12
     cityPath.data.x[1] = -28
     cityPath.data.y[1] = 14
     cityPath.data.x[2] = 145
@@ -5972,8 +5972,8 @@ function cityPath.curve_70_107()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -8.139e-12
-    cityPath.data.y[0] = 2.4441e-12
+    cityPath.data.x[0] = 3.1324e-12
+    cityPath.data.y[0] = 2.2594e-12
     cityPath.data.x[1] = 90
     cityPath.data.y[1] = 3
     cityPath.data.x[2] = 97
@@ -5988,8 +5988,8 @@ function cityPath.curve_110_113()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -7.5152e-12
-    cityPath.data.y[0] = 5.2285e-13
+    cityPath.data.x[0] = 4.8237e-12
+    cityPath.data.y[0] = 1.4609e-12
     cityPath.data.x[1] = -75
     cityPath.data.y[1] = 1
     cityPath.data.x[2] = 67
@@ -6020,8 +6020,8 @@ function cityPath.curve_112_114()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 5.5547e-12
-    cityPath.data.y[0] = -2.3244e-12
+    cityPath.data.x[0] = -2.6522e-12
+    cityPath.data.y[0] = 9.2408e-13
     cityPath.data.x[1] = 59
     cityPath.data.y[1] = 31
     cityPath.data.x[2] = 193
@@ -6052,8 +6052,8 @@ function cityPath.curve_114_115()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -8.347e-12
-    cityPath.data.y[0] = 1.1436e-12
+    cityPath.data.x[0] = -3.7539e-13
+    cityPath.data.y[0] = -1.0147e-12
     cityPath.data.x[1] = 171
     cityPath.data.y[1] = -28
     cityPath.data.x[2] = -211
@@ -6068,8 +6068,8 @@ function cityPath.curve_114_116()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.8943e-12
-    cityPath.data.y[0] = 1.0378e-12
+    cityPath.data.x[0] = 2.9373e-12
+    cityPath.data.y[0] = -1.7878e-13
     cityPath.data.x[1] = -13
     cityPath.data.y[1] = 6
     cityPath.data.x[2] = 205
@@ -6084,8 +6084,8 @@ function cityPath.curve_115_116()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -1.3189e-11
-    cityPath.data.y[0] = 2.3764e-13
+    cityPath.data.x[0] = -8.9977e-12
+    cityPath.data.y[0] = -4.1354e-13
     cityPath.data.x[1] = -47
     cityPath.data.y[1] = 80
     cityPath.data.x[2] = 279
@@ -6100,8 +6100,8 @@ function cityPath.curve_111_113()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 8.1242e-12
-    cityPath.data.y[0] = -1.8565e-12
+    cityPath.data.x[0] = 1.3002e-12
+    cityPath.data.y[0] = -6.0968e-13
     cityPath.data.x[1] = 24
     cityPath.data.y[1] = -11
     cityPath.data.x[2] = -279
@@ -6132,8 +6132,8 @@ function cityPath.curve_113_117()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 7.5524e-12
-    cityPath.data.y[0] = 1.2235e-12
+    cityPath.data.x[0] = -3.7438e-12
+    cityPath.data.y[0] = 1.1825e-12
     cityPath.data.x[1] = -7
     cityPath.data.y[1] = -14
     cityPath.data.x[2] = 231
@@ -6148,8 +6148,8 @@ function cityPath.curve_116_117()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -5.4731e-12
-    cityPath.data.y[0] = 1.8398e-12
+    cityPath.data.x[0] = -6.925e-12
+    cityPath.data.y[0] = -4.1194e-13
     cityPath.data.x[1] = 29
     cityPath.data.y[1] = -13
     cityPath.data.x[2] = 175
@@ -6164,8 +6164,8 @@ function cityPath.curve_117_118()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 1.1882e-13
-    cityPath.data.y[0] = 1.2736e-12
+    cityPath.data.x[0] = 5.7919e-13
+    cityPath.data.y[0] = 8.2957e-13
     cityPath.data.x[1] = -83
     cityPath.data.y[1] = 5
     cityPath.data.x[2] = 173
@@ -6180,8 +6180,8 @@ function cityPath.curve_116_118()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -6.483e-12
-    cityPath.data.y[0] = -6.9806e-13
+    cityPath.data.x[0] = -3.3456e-12
+    cityPath.data.y[0] = -8.8064e-13
     cityPath.data.x[1] = -55
     cityPath.data.y[1] = -82
     cityPath.data.x[2] = 349
@@ -6292,8 +6292,8 @@ function cityPath.curve_123_254()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = -2.31e-12
-    cityPath.data.y[0] = -3.6722e-12
+    cityPath.data.x[0] = 4.6566e-12
+    cityPath.data.y[0] = 2.1747e-12
     cityPath.data.x[1] = 1.5
     cityPath.data.y[1] = -21
     cityPath.data.x[2] = 181
@@ -6308,14 +6308,142 @@ function cityPath.curve_19_253()
     cityPath.data.rank = 3
     cityPath.data.x = {}
     cityPath.data.y = {}
-    cityPath.data.x[0] = 4.4557e-14
-    cityPath.data.y[0] = 8.6886e-13
+    cityPath.data.x[0] = 3.7574e-13
+    cityPath.data.y[0] = -5.0686e-13
     cityPath.data.x[1] = 87.5
     cityPath.data.y[1] = -41
     cityPath.data.x[2] = -339
     cityPath.data.y[2] = -38
     cityPath.data.x[3] = 418.5
     cityPath.data.y[3] = 1543
+    return cityPath.data
+end
+
+function cityPath.curve_212_252()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = 252
+    cityPath.data.y[0] = 30
+    cityPath.data.x[1] = 39.857
+    cityPath.data.y[1] = 220.71
+    cityPath.data.x[2] = -90.143
+    cityPath.data.y[2] = -446.19
+    cityPath.data.x[3] = 4956.5
+    cityPath.data.y[3] = 393.5
+    return cityPath.data
+end
+
+function cityPath.curve_21_250()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = 281.1
+    cityPath.data.y[0] = -44.1
+    cityPath.data.x[1] = 45.171
+    cityPath.data.y[1] = 9.6857
+    cityPath.data.x[2] = -447.68
+    cityPath.data.y[2] = -299.55
+    cityPath.data.x[3] = 431.66
+    cityPath.data.y[3] = 1323.4
+    return cityPath.data
+end
+
+function cityPath.curve_162_251()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = 588
+    cityPath.data.y[0] = -192
+    cityPath.data.x[1] = -749.14
+    cityPath.data.y[1] = 217.29
+    cityPath.data.x[2] = 540.74
+    cityPath.data.y[2] = 64.548
+    cityPath.data.x[3] = 4191.7
+    cityPath.data.y[3] = 3350.7
+    return cityPath.data
+end
+
+function cityPath.curve_14_16()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = -130.5
+    cityPath.data.y[0] = -387
+    cityPath.data.x[1] = 42.75
+    cityPath.data.y[1] = 540
+    cityPath.data.x[2] = 85.75
+    cityPath.data.y[2] = -371
+    cityPath.data.x[3] = 545.5
+    cityPath.data.y[3] = 1968
+    return cityPath.data
+end
+
+function cityPath.curve_218_220()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = 297
+    cityPath.data.y[0] = -76.5
+    cityPath.data.x[1] = -474.75
+    cityPath.data.y[1] = 13.5
+    cityPath.data.x[2] = -56.25
+    cityPath.data.y[2] = -254
+    cityPath.data.x[3] = 5660.5
+    cityPath.data.y[3] = 3236
+    return cityPath.data
+end
+
+function cityPath.curve_52_93()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = -991.26
+    cityPath.data.y[0] = -436.3
+    cityPath.data.x[1] = 1468.5
+    cityPath.data.y[1] = 479.86
+    cityPath.data.x[2] = 504.52
+    cityPath.data.y[2] = 450.89
+    cityPath.data.x[3] = 1619
+    cityPath.data.y[3] = 1998.5
+    return cityPath.data
+end
+
+function cityPath.curve_68_148()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = -10197
+    cityPath.data.y[0] = 1683
+    cityPath.data.x[1] = 15298
+    cityPath.data.y[1] = -2529
+    cityPath.data.x[2] = -3967.7
+    cityPath.data.y[2] = 656
+    cityPath.data.x[3] = 1961.5
+    cityPath.data.y[3] = 1181
+    return cityPath.data
+end
+
+function cityPath.curve_178_179()
+    cityPath.data = {}
+    cityPath.data.rank = 3
+    cityPath.data.x = {}
+    cityPath.data.y = {}
+    cityPath.data.x[0] = 53.702
+    cityPath.data.y[0] = -179.3
+    cityPath.data.x[1] = 145.49
+    cityPath.data.y[1] = 297.82
+    cityPath.data.x[2] = -154.24
+    cityPath.data.y[2] = -604.42
+    cityPath.data.x[3] = 4015.7
+    cityPath.data.y[3] = 2320.7
     return cityPath.data
 end
 
