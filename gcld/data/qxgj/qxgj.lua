@@ -20,14 +20,14 @@ function qxgj.curve_301_303()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = -511.9
-    data.y[0] = -100.47
-    data.x[1] = 968.23
-    data.y[1] = 178.71
-    data.x[2] = -764.58
-    data.y[2] = -175.06
-    data.x[3] = 888.88
-    data.y[3] = 3290.9
+    data.x[0] = 25.348
+    data.y[0] = 4.9563
+    data.x[1] = 34.694
+    data.y[1] = -22.469
+    data.x[2] = -375.85
+    data.y[2] = -81.691
+    data.x[3] = 902.88
+    data.y[3] = 3294.3
     return data
 end
 
@@ -36,14 +36,14 @@ function qxgj.curve_302_303()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = 390.05
-    data.y[0] = -307.87
-    data.x[1] = -416.77
-    data.y[1] = 329.66
-    data.x[2] = 224.3
-    data.y[2] = -184.57
-    data.x[3] = 385.32
-    data.y[3] = 3358.1
+    data.x[0] = -13.859
+    data.y[0] = 41.576
+    data.x[1] = 62.205
+    data.y[1] = -84.53
+    data.x[2] = 148.97
+    data.y[2] = -118.17
+    data.x[3] = 387.76
+    data.y[3] = 3355.9
     return data
 end
 
@@ -52,14 +52,14 @@ function qxgj.curve_302_308()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = -78
-    data.y[0] = -324
-    data.x[1] = 81.857
-    data.y[1] = 293.57
-    data.x[2] = -52.762
-    data.y[2] = -294.64
-    data.x[3] = 387.71
-    data.y[3] = 3358.7
+    data.x[0] = -2.1549
+    data.y[0] = 169.37
+    data.x[1] = -5.2179
+    data.y[1] = -245.61
+    data.x[2] = -42.102
+    data.y[2] = -248.91
+    data.x[3] = 387.28
+    data.y[3] = 3356.4
     return data
 end
 
@@ -84,14 +84,14 @@ function qxgj.curve_308_312()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = 36
-    data.y[0] = -348
-    data.x[1] = -35.143
-    data.y[1] = 648.86
-    data.x[2] = 49.143
-    data.y[2] = -571.33
-    data.x[3] = 337.76
-    data.y[3] = 3024.7
+    data.x[0] = 10.774
+    data.y[0] = 4.7407
+    data.x[1] = 28.237
+    data.y[1] = -30.245
+    data.x[2] = 11.696
+    data.y[2] = -246.72
+    data.x[3] = 336.68
+    data.y[3] = 3028.6
     return data
 end
 
@@ -100,14 +100,14 @@ function qxgj.curve_312_318()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = 298.67
-    data.y[0] = -317.2
-    data.x[1] = -612.64
-    data.y[1] = 461.32
-    data.x[2] = 527.31
-    data.y[2] = -346.41
-    data.x[3] = 396.21
-    data.y[3] = 2752.5
+    data.x[0] = -28.555
+    data.y[0] = -195.61
+    data.x[1] = -40.967
+    data.y[1] = 213.11
+    data.x[2] = 288.65
+    data.y[2] = -222.22
+    data.x[3] = 386.96
+    data.y[3] = 2757.2
     return data
 end
 
@@ -116,14 +116,14 @@ function qxgj.curve_313_318()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = -370.72
-    data.y[0] = -195.75
-    data.x[1] = 369.41
-    data.y[1] = 114.55
-    data.x[2] = -152.39
-    data.y[2] = -179.44
-    data.x[3] = 763.18
-    data.y[3] = 2814.7
+    data.x[0] = 49.988
+    data.y[0] = 308.71
+    data.x[1] = -196.79
+    data.y[1] = -484.54
+    data.x[2] = -8.6888
+    data.y[2] = -81.554
+    data.x[3] = 757.9
+    data.y[3] = 2810.9
     return data
 end
 
@@ -132,14 +132,14 @@ function qxgj.curve_309_313()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = -101.33
-    data.y[0] = -533.33
-    data.x[1] = 89.143
-    data.y[1] = 573.71
-    data.x[2] = -12.81
-    data.y[2] = -228.38
-    data.x[3] = 785.24
-    data.y[3] = 3004.9
+    data.x[0] = -30
+    data.y[0] = -18
+    data.x[1] = -5.5714
+    data.y[1] = -68.143
+    data.x[2] = 10.333
+    data.y[2] = -102.14
+    data.x[3] = 785.17
+    data.y[3] = 3002.4
     return data
 end
 
@@ -148,14 +148,14 @@ function qxgj.curve_301_309()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = -220.87
-    data.y[0] = -262.45
-    data.x[1] = 263.93
-    data.y[1] = 200.3
-    data.x[2] = -155.67
-    data.y[2] = -226
-    data.x[3] = 902.8
-    data.y[3] = 3297.1
+    data.x[0] = -74.203
+    data.y[0] = 247.53
+    data.x[1] = 87.372
+    data.y[1] = -407.5
+    data.x[2] = -128.1
+    data.y[2] = -129.68
+    data.x[3] = 901.22
+    data.y[3] = 3293.1
     return data
 end
 
@@ -164,14 +164,14 @@ function qxgj.curve_301_304()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = 112.6
-    data.y[0] = -122.13
-    data.x[1] = -315.32
-    data.y[1] = 295.48
-    data.x[2] = 368.94
-    data.y[2] = -325.75
-    data.x[3] = 904.47
-    data.y[3] = 3290.4
+    data.x[0] = -178.85
+    data.y[0] = 174.46
+    data.x[1] = 212.13
+    data.y[1] = -232.24
+    data.x[2] = 137.03
+    data.y[2] = -96.853
+    data.x[3] = 898.83
+    data.y[3] = 3295.1
     return data
 end
 
@@ -1348,14 +1348,14 @@ function qxgj.curve_372_465()
     data.rank = 3
     data.x = {}
     data.y = {}
-    data.x[0] = 3643.9
-    data.y[0] = 2063.5
-    data.x[1] = -5683.4
-    data.y[1] = -3174.2
-    data.x[2] = 2276.6
-    data.y[2] = 1243.8
-    data.x[3] = 2483.7
-    data.y[3] = 218.03
+    data.x[0] = -301.25
+    data.y[0] = -181.01
+    data.x[1] = 234.32
+    data.y[1] = 192.62
+    data.x[2] = 344.63
+    data.y[2] = 145.17
+    data.x[3] = 2463.4
+    data.y[3] = 206.21
     return data
 end
 
@@ -1423,22 +1423,6 @@ function qxgj.curve_358_365()
     return data
 end
 
-function qxgj.curve_354_358()
-    local data = {}
-    data.rank = 3
-    data.x = {}
-    data.y = {}
-    data.x[0] = -32
-    data.y[0] = 320
-    data.x[1] = 10.286
-    data.y[1] = -437.71
-    data.x[2] = -118.29
-    data.y[2] = -100.29
-    data.x[3] = 1408.1
-    data.y[3] = 1165.7
-    return data
-end
-
 function qxgj.curve_357_358()
     local data = {}
     data.rank = 3
@@ -1452,6 +1436,22 @@ function qxgj.curve_357_358()
     data.y[2] = 185
     data.x[3] = 904.26
     data.y[3] = 900.06
+    return data
+end
+
+function qxgj.curve_354_358()
+    local data = {}
+    data.rank = 3
+    data.x = {}
+    data.y = {}
+    data.x[0] = -32
+    data.y[0] = 320
+    data.x[1] = 10.286
+    data.y[1] = -437.71
+    data.x[2] = -118.29
+    data.y[2] = -100.29
+    data.x[3] = 1408.1
+    data.y[3] = 1165.7
     return data
 end
 
@@ -5308,6 +5308,54 @@ function qxgj.curve_440_441()
     data.y[2] = -167.99
     data.x[3] = 3026
     data.y[3] = 1955.8
+    return data
+end
+
+function qxgj.curve_325_520()
+    local data = {}
+    data.rank = 3
+    data.x = {}
+    data.y = {}
+    data.x[0] = 85.648
+    data.y[0] = 25.463
+    data.x[1] = -209.72
+    data.y[1] = 49.306
+    data.x[2] = -107.67
+    data.y[2] = -199.69
+    data.x[3] = 1263.9
+    data.y[3] = 2216
+    return data
+end
+
+function qxgj.curve_419_519()
+    local data = {}
+    data.rank = 3
+    data.x = {}
+    data.y = {}
+    data.x[0] = 158.56
+    data.y[0] = 237.27
+    data.x[1] = -392.76
+    data.y[1] = -354.56
+    data.x[2] = 177.09
+    data.y[2] = -38.459
+    data.x[3] = 2615.7
+    data.y[3] = 2464.1
+    return data
+end
+
+function qxgj.curve_463_521()
+    local data = {}
+    data.rank = 3
+    data.x = {}
+    data.y = {}
+    data.x[0] = -53.241
+    data.y[0] = -96.065
+    data.x[1] = 160.22
+    data.y[1] = 131.15
+    data.x[2] = -145.39
+    data.y[2] = -242.27
+    data.x[3] = 3071.4
+    data.y[3] = 696.2
     return data
 end
 

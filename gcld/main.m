@@ -18,6 +18,10 @@ elseif index == 7
     drawYuenan();
 elseif index == 8
     drawLiuqiu();
+elseif index == 9
+    drawNanzhao();
+elseif index == 10
+    drawQxgj();
 end
 
 end

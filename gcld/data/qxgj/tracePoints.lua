@@ -23,19 +23,20 @@ end
 
 function qxgj.elapse_301_303()
     local data = {}
-    data.count = 11
+    data.count = 12
     data.time = {}
-    data.time[1] = 0.035
-    data.time[2] = 0.075
-    data.time[3] = 0.119
-    data.time[4] = 0.17
-    data.time[5] = 0.23
-    data.time[6] = 0.302
-    data.time[7] = 0.395
-    data.time[8] = 0.52
-    data.time[9] = 0.675
-    data.time[10] = 0.815
-    data.time[11] = 0.919
+    data.time[1] = 0.066
+    data.time[2] = 0.134
+    data.time[3] = 0.202
+    data.time[4] = 0.272
+    data.time[5] = 0.342
+    data.time[6] = 0.415
+    data.time[7] = 0.489
+    data.time[8] = 0.565
+    data.time[9] = 0.644
+    data.time[10] = 0.726
+    data.time[11] = 0.812
+    data.time[12] = 0.902
     return data
 end
 
@@ -43,15 +44,15 @@ function qxgj.elapse_302_303()
     local data = {}
     data.count = 9
     data.time = {}
-    data.time[1] = 0.106
-    data.time[2] = 0.284
-    data.time[3] = 0.515
-    data.time[4] = 0.655
-    data.time[5] = 0.747
-    data.time[6] = 0.815
-    data.time[7] = 0.871
-    data.time[8] = 0.919
-    data.time[9] = 0.961
+    data.time[1] = 0.125
+    data.time[2] = 0.239
+    data.time[3] = 0.345
+    data.time[4] = 0.446
+    data.time[5] = 0.542
+    data.time[6] = 0.636
+    data.time[7] = 0.728
+    data.time[8] = 0.819
+    data.time[9] = 0.909
     return data
 end
 
@@ -60,17 +61,17 @@ function qxgj.elapse_302_308()
     data.count = 12
     data.time = {}
     data.time[1] = 0.092
-    data.time[2] = 0.2
-    data.time[3] = 0.32
-    data.time[4] = 0.438
-    data.time[5] = 0.541
-    data.time[6] = 0.629
-    data.time[7] = 0.704
-    data.time[8] = 0.768
-    data.time[9] = 0.824
-    data.time[10] = 0.874
-    data.time[11] = 0.919
-    data.time[12] = 0.96
+    data.time[2] = 0.174
+    data.time[3] = 0.25
+    data.time[4] = 0.322
+    data.time[5] = 0.392
+    data.time[6] = 0.46
+    data.time[7] = 0.529
+    data.time[8] = 0.597
+    data.time[9] = 0.668
+    data.time[10] = 0.741
+    data.time[11] = 0.818
+    data.time[12] = 0.902
     return data
 end
 
@@ -96,16 +97,16 @@ function qxgj.elapse_308_312()
     local data = {}
     data.count = 10
     data.time = {}
-    data.time[1] = 0.046
-    data.time[2] = 0.097
-    data.time[3] = 0.156
-    data.time[4] = 0.225
-    data.time[5] = 0.308
-    data.time[6] = 0.411
-    data.time[7] = 0.538
-    data.time[8] = 0.681
-    data.time[9] = 0.81
-    data.time[10] = 0.914
+    data.time[1] = 0.1
+    data.time[2] = 0.199
+    data.time[3] = 0.295
+    data.time[4] = 0.389
+    data.time[5] = 0.481
+    data.time[6] = 0.572
+    data.time[7] = 0.66
+    data.time[8] = 0.747
+    data.time[9] = 0.833
+    data.time[10] = 0.916
     return data
 end
 
@@ -113,17 +114,17 @@ function qxgj.elapse_312_318()
     local data = {}
     data.count = 11
     data.time = {}
-    data.time[1] = 0.041
-    data.time[2] = 0.088
-    data.time[3] = 0.141
-    data.time[4] = 0.203
-    data.time[5] = 0.278
-    data.time[6] = 0.371
-    data.time[7] = 0.491
-    data.time[8] = 0.631
-    data.time[9] = 0.757
+    data.time[1] = 0.072
+    data.time[2] = 0.149
+    data.time[3] = 0.231
+    data.time[4] = 0.317
+    data.time[5] = 0.406
+    data.time[6] = 0.499
+    data.time[7] = 0.593
+    data.time[8] = 0.685
+    data.time[9] = 0.774
     data.time[10] = 0.856
-    data.time[11] = 0.934
+    data.time[11] = 0.931
     return data
 end
 
@@ -131,17 +132,17 @@ function qxgj.elapse_313_318()
     local data = {}
     data.count = 11
     data.time = {}
-    data.time[1] = 0.126
-    data.time[2] = 0.28
-    data.time[3] = 0.426
-    data.time[4] = 0.545
-    data.time[5] = 0.639
-    data.time[6] = 0.715
-    data.time[7] = 0.779
-    data.time[8] = 0.833
-    data.time[9] = 0.881
-    data.time[10] = 0.924
-    data.time[11] = 0.963
+    data.time[1] = 0.162
+    data.time[2] = 0.261
+    data.time[3] = 0.343
+    data.time[4] = 0.417
+    data.time[5] = 0.487
+    data.time[6] = 0.555
+    data.time[7] = 0.623
+    data.time[8] = 0.69
+    data.time[9] = 0.76
+    data.time[10] = 0.833
+    data.time[11] = 0.912
     return data
 end
 
@@ -149,12 +150,12 @@ function qxgj.elapse_309_313()
     local data = {}
     data.count = 6
     data.time = {}
-    data.time[1] = 0.202
-    data.time[2] = 0.657
-    data.time[3] = 0.774
-    data.time[4] = 0.85
-    data.time[5] = 0.908
-    data.time[6] = 0.957
+    data.time[1] = 0.229
+    data.time[2] = 0.409
+    data.time[3] = 0.559
+    data.time[4] = 0.689
+    data.time[5] = 0.803
+    data.time[6] = 0.905
     return data
 end
 
@@ -162,17 +163,17 @@ function qxgj.elapse_301_309()
     local data = {}
     data.count = 11
     data.time = {}
-    data.time[1] = 0.105
-    data.time[2] = 0.233
-    data.time[3] = 0.371
-    data.time[4] = 0.495
-    data.time[5] = 0.598
-    data.time[6] = 0.682
-    data.time[7] = 0.753
-    data.time[8] = 0.814
-    data.time[9] = 0.867
-    data.time[10] = 0.915
-    data.time[11] = 0.959
+    data.time[1] = 0.122
+    data.time[2] = 0.22
+    data.time[3] = 0.305
+    data.time[4] = 0.382
+    data.time[5] = 0.456
+    data.time[6] = 0.528
+    data.time[7] = 0.6
+    data.time[8] = 0.672
+    data.time[9] = 0.745
+    data.time[10] = 0.823
+    data.time[11] = 0.906
     return data
 end
 
@@ -180,14 +181,14 @@ function qxgj.elapse_301_304()
     local data = {}
     data.count = 8
     data.time = {}
-    data.time[1] = 0.053
-    data.time[2] = 0.112
-    data.time[3] = 0.179
-    data.time[4] = 0.255
-    data.time[5] = 0.345
-    data.time[6] = 0.456
-    data.time[7] = 0.6
-    data.time[8] = 0.788
+    data.time[1] = 0.126
+    data.time[2] = 0.227
+    data.time[3] = 0.318
+    data.time[4] = 0.404
+    data.time[5] = 0.491
+    data.time[6] = 0.58
+    data.time[7] = 0.677
+    data.time[8] = 0.793
     return data
 end
 
@@ -1444,38 +1445,20 @@ end
 
 function qxgj.elapse_372_465()
     local data = {}
-    data.count = 30
+    data.count = 12
     data.time = {}
-    data.time[1] = 0.01
-    data.time[2] = 0.02
-    data.time[3] = 0.031
-    data.time[4] = 0.043
-    data.time[5] = 0.056
-    data.time[6] = 0.07
-    data.time[7] = 0.086
-    data.time[8] = 0.103
-    data.time[9] = 0.123
-    data.time[10] = 0.147
-    data.time[11] = 0.178
-    data.time[12] = 0.237
-    data.time[13] = 0.358
-    data.time[14] = 0.404
-    data.time[15] = 0.443
-    data.time[16] = 0.477
-    data.time[17] = 0.51
-    data.time[18] = 0.543
-    data.time[19] = 0.576
-    data.time[20] = 0.613
-    data.time[21] = 0.654
-    data.time[22] = 0.714
-    data.time[23] = 0.837
-    data.time[24] = 0.875
-    data.time[25] = 0.902
-    data.time[26] = 0.924
-    data.time[27] = 0.942
-    data.time[28] = 0.958
-    data.time[29] = 0.973
-    data.time[30] = 0.986
+    data.time[1] = 0.064
+    data.time[2] = 0.123
+    data.time[3] = 0.18
+    data.time[4] = 0.236
+    data.time[5] = 0.291
+    data.time[6] = 0.346
+    data.time[7] = 0.402
+    data.time[8] = 0.46
+    data.time[9] = 0.521
+    data.time[10] = 0.588
+    data.time[11] = 0.663
+    data.time[12] = 0.758
     return data
 end
 
@@ -1565,22 +1548,6 @@ function qxgj.elapse_358_365()
     return data
 end
 
-function qxgj.elapse_354_358()
-    local data = {}
-    data.count = 9
-    data.time = {}
-    data.time[1] = 0.136
-    data.time[2] = 0.239
-    data.time[3] = 0.329
-    data.time[4] = 0.413
-    data.time[5] = 0.494
-    data.time[6] = 0.577
-    data.time[7] = 0.663
-    data.time[8] = 0.757
-    data.time[9] = 0.867
-    return data
-end
-
 function qxgj.elapse_357_358()
     local data = {}
     data.count = 14
@@ -1599,6 +1566,22 @@ function qxgj.elapse_357_358()
     data.time[12] = 0.818
     data.time[13] = 0.878
     data.time[14] = 0.938
+    return data
+end
+
+function qxgj.elapse_354_358()
+    local data = {}
+    data.count = 9
+    data.time = {}
+    data.time[1] = 0.136
+    data.time[2] = 0.239
+    data.time[3] = 0.329
+    data.time[4] = 0.413
+    data.time[5] = 0.494
+    data.time[6] = 0.577
+    data.time[7] = 0.663
+    data.time[8] = 0.757
+    data.time[9] = 0.867
     return data
 end
 
@@ -5622,6 +5605,49 @@ function qxgj.elapse_440_441()
     data.time[10] = 0.669
     data.time[11] = 0.754
     data.time[12] = 0.856
+    return data
+end
+
+function qxgj.elapse_325_520()
+    local data = {}
+    data.count = 9
+    data.time = {}
+    data.time[1] = 0.116
+    data.time[2] = 0.225
+    data.time[3] = 0.328
+    data.time[4] = 0.427
+    data.time[5] = 0.523
+    data.time[6] = 0.617
+    data.time[7] = 0.711
+    data.time[8] = 0.805
+    data.time[9] = 0.9
+    return data
+end
+
+function qxgj.elapse_419_519()
+    local data = {}
+    data.count = 6
+    data.time = {}
+    data.time[1] = 0.182
+    data.time[2] = 0.341
+    data.time[3] = 0.47
+    data.time[4] = 0.587
+    data.time[5] = 0.705
+    data.time[6] = 0.833
+    return data
+end
+
+function qxgj.elapse_463_521()
+    local data = {}
+    data.count = 7
+    data.time = {}
+    data.time[1] = 0.101
+    data.time[2] = 0.218
+    data.time[3] = 0.351
+    data.time[4] = 0.495
+    data.time[5] = 0.638
+    data.time[6] = 0.772
+    data.time[7] = 0.892
     return data
 end
 
