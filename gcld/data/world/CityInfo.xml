@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<cities>
+	<city id="1" name="西凉北" terrain="3" x="556" y="188" model="model301" model2="model306" blockId="1" point="2,1,2"/>
+	<city id="2" name="西凉西" terrain="3" x="359" y="353" model="model301" model2="model306" blockId="1" point="2,1,2"/>
+	<city id="3" name="西凉东" terrain="3" x="793" y="323" model="model301" model2="model306" blockId="1" point="2,1,2"/>
+	<city id="4" name="西凉" terrain="6" x="559" y="428" model="model605" model2="model605" blockId="1" flag="5" point="2,1,2"/>
+	<city id="5" name="天水北" terrain="3" x="431" y="617" model="model301" model2="model306" blockId="7" point="2,1,2"/>
+	<city id="6" name="西凉南" terrain="3" x="708" y="589" model="model301" model2="model306" blockId="1" point="2,1,2"/>
+	<city id="7" name="天水西" terrain="3" x="327" y="900" model="model301" model2="model306" blockId="7" point="2,1,2"/>
+	<city id="8" name="天水" terrain="6" x="536" y="848" model="model605" model2="model605" blockId="7" flag="5" point="2,1,2"/>
+	<city id="9" name="天水东" terrain="3" x="745" y="767" model="model301" model2="model306" blockId="7" point="2,1,2"/>
+	<city id="10" name="天水南" terrain="3" x="718" y="1009" model="model301" model2="model306" blockId="7" point="2,1,2"/>
+	<city id="11" name="陇西北" terrain="3" x="567" y="1204" model="model301" model2="model306" blockId="13" point="2,1,2"/>
+	<city id="12" name="陇西" terrain="6" x="525" y="1437" model="model605" model2="model605" blockId="13" flag="5" point="2,1,2" sx="520" sy="1437" roadImg="1" />
+	<city id="13" name="陇西东" terrain="3" x="789" y="1507" model="model301" model2="model302" blockId="13" point="2,1,2"/>
+	<city id="14" name="陇西南" terrain="4" x="545" y="1630" model="model401" model2="model401" blockId="13" point="2,1,2"/>
+	<city id="15" name="永安西" terrain="1" x="794" y="1693" model="model101" model2="model106" blockId="13" point="2,1,2"/>
+	<city id="16" name="成都北" terrain="4" x="543" y="1848" model="model401" model2="model401" blockId="19" point="2,1,2"/>
+	<city id="17" name="成都西" terrain="3" x="355" y="1919" model="model301" model2="model302" blockId="19" point="2,1,2"/>
+	<city id="18" name="永安南" terrain="1" x="907" y="1910" model="model101" model2="model105" blockId="19" point="2,1,2"/>
+	<city id="19" name="成都" terrain="6" x="482" y="2023" model="model601" model2="model602" blockId="19" flag="1"/>
+	<city id="20" name="梓潼" terrain="6" x="726" y="2074" model="model604" model2="model605" blockId="19" flag="5" point="2,1,2"/>
+	<city id="21" name="武阳" terrain="6" x="430" y="2279" model="model604" model2="model605" blockId="19" flag="5" point="2,1,2"/>
+	<city id="22" name="江州北" terrain="1" x="568" y="2458" model="model101" model2="model104" blockId="25" point="2,1,2" sx="579" sy="2452" roadImg="2" />
+	<city id="23" name="巴郡" terrain="6" x="859" y="2490" model="model604" model2="model605" blockId="25" flag="5" point="2,1,2"/>
+	<city id="259" x="1030" y="2611" name="蜀南城塞" model="model999" model2="model999" blockId="25" isCastle="1"/>
+	<city id="24" name="江州" terrain="6" x="520" y="2688" model="model604" model2="model605" blockId="25" flag="5" point="2,1,2"/>
+	<city id="25" name="江州南" terrain="3" x="444" y="2936" model="model301" model2="model303" blockId="25" point="2,1,2"/>
+	<city id="26" name="江州东" terrain="1" x="737" y="2848" model="model101" model2="model104" blockId="25" point="2,1,2"/>
+	<city id="27" name="云南西" terrain="3" x="436" y="3152" model="model301" model2="model303" blockId="31" point="2,1,2"/>
+	<city id="28" name="云南北" terrain="3" x="801" y="3052" model="model301" model2="model303" blockId="31" point="2,1,2"/>
+	<city id="29" name="云南南" terrain="3" x="593" y="3396" model="model301" model2="model303" blockId="31" point="2,1,2"/>
+	<city id="30" name="云南" terrain="6" x="754" y="3241" model="model604" model2="model605" blockId="31" flag="5" point="2,1,2"/>
+	<city id="31" name="武威外山" terrain="3" x="1129" y="150" model="model301" model2="model306" blockId="2" point="2,2,5"/>
+	<city id="32" name="武威" terrain="6" x="1120" y="449" model="model605" model2="model604" blockId="2" flag="5" point="2,2,5"/>
+	<city id="33" name="武威东" terrain="3" x="1322" y="337" model="model301" model2="model306" blockId="2" point="2,2,5" sx="1138" sy="337" roadImg="3"/>
+	<city id="34" name="长安" terrain="6" x="1452" y="587" model="model605" model2="model605" blockId="2" flag="5" point="2,2,5"/>
+	<city id="35" name="咸阳北" terrain="3" x="1681" y="197" model="model301" model2="model306" blockId="2" point="2,2,5"/>
+	<city id="36" name="街亭" terrain="1" x="1602" y="390" model="model101" model2="model107" blockId="2" point="2,2,5"/>
+	<city id="37" name="咸阳" terrain="6" x="1866" y="403" model="model605" model2="model604" blockId="2" flag="5" point="2,2,5" sx="1616" sy="379" roadImg="9"/>
+	<city id="38" name="长安东" terrain="1" x="1712" y="593" model="model303" model2="model305" blockId="2" point="2,2,5"/>
+	<city id="39" name="五丈原" terrain="3" x="1151" y="772" model="model301" model2="model306" blockId="8" point="2,2,5" sx="1112" sy="479" roadImg="4"/>
+	<city id="40" name="汉中北" terrain="1" x="1499" y="805" model="model202" model2="model204" blockId="8" point="2,2,5" sx="1399" sy="806" roadImg="5" />
+	<city id="41" name="潼关" terrain="5" x="1145" y="1115" model="model501" model2="model501" blockId="8" flag="5" point="2,1,2"/>
+	<city id="42" name="汉中" terrain="6" x="1386" y="968" model="model605" model2="model605" blockId="8" flag="5" point="2,2,5"/>
+	<city id="43" name="剑阁" terrain="3" x="1628" y="971" model="model301" model2="model306" blockId="8" point="2,2,5"/>
+	<city id="44" name="汉中南" terrain="3" x="1506" y="1101" model="model301" model2="model306" blockId="8" point="2,2,5" sx="1519" sy="971" roadImg="6"/>
+	<city id="45" name="斜谷" terrain="3" x="1809" y="904" model="model302" model2="model304" blockId="8" point="2,2,5"/>
+	<city id="46" name="石城北" terrain="3" x="1233" y="1275" model="model301" model2="model306" blockId="14" point="2,1,2"/>
+	<city id="47" name="永安北" terrain="3" x="1038" y="1578" model="model301" model2="model302" blockId="14" point="2,1,2"/>
+	<city id="48" name="永安" terrain="6" x="1011" y="1753" model="model604" model2="model605" blockId="14" flag="5" point="2,1,2"/>
+	<city id="49" name="石城西" terrain="3" x="1262" y="1544" model="model301" model2="model302" blockId="14" point="2,1,2"/>
+	<city id="260" x="1322" y="1671" name="蜀北城塞" model="model999" model2="model999" blockId="14" isCastle="1"/>
+	<city id="50" name="永安东" terrain="1" x="1253" y="1801" model="model101" model2="model103" blockId="20" point="2,1,2"/>
+	<city id="51" name="石城" terrain="6" x="1441" y="1454" model="model605" model2="model605" blockId="14" flag="5" point="2,1,2"/>
+	<city id="52" name="石城南" terrain="1" x="1604" y="1601" model="model101" model2="model103" blockId="14" point="2,1,2"/>
+	<city id="53" name="白帝北" terrain="3" x="1831" y="1723" model="model301" model2="model302" blockId="14" point="2,1,2"/>
+	<city id="54" name="涪陵西" terrain="3" x="1099" y="2040" model="model301" model2="model302" blockId="20" point="2,1,2" sx="1106" sy="2027" roadImg="7"/>
+	<city id="258" x="1343" y="1945" name="蜀中城塞" model="model999" model2="model999" blockId="20" isCastle="1"/>
+	<city id="55" name="涪陵南" terrain="3" x="1152" y="2369" model="model301" model2="model302" blockId="20" point="2,1,2"/>
+	<city id="56" name="三江口" terrain="1" x="3446" y="2051" model="world.city.slope1l" blockId="22" point="2,2,2"/>
+	<city id="57" name="涪陵" terrain="6" x="1325" y="2110" model="model604" model2="model605" blockId="20" flag="5" point="2,1,2"/>
+	<city id="58" name="白帝西" terrain="3" x="1605" y="1882" model="model301" model2="model302" blockId="20" point="2,1,2"/>
+	<city id="59" name="涪陵东" terrain="3" x="1535" y="2142" model="model301" model2="model302" blockId="20" point="2,1,2"/>
+	<city id="60" name="白帝" terrain="6" x="1848" y="1928" model="model602" model2="model607" blockId="20" flag="2" point="2,1,2"/>
+	<city id="61" name="白帝南" terrain="3" x="1743" y="2068" model="model301" model2="model302" blockId="20" point="2,1,2" sx="1750" sy="2011" roadImg="10"/>
+	<city id="62" name="建宁西" terrain="3" x="1115" y="2765" model="model301" model2="model302" blockId="26" point="2,1,2"/>
+	<city id="63" name="建宁北" terrain="3" x="1393" y="2556" model="model301" model2="model303" blockId="26" point="2,1,2"/>
+	<city id="64" name="建宁" terrain="6" x="1411" y="2833" model="model604" model2="model605" blockId="26" flag="5" point="2,1,2" sx="1451" sy="2724" roadImg="8"/>
+	<city id="65" name="汉寿西" terrain="3" x="1736" y="2428" model="model301" model2="model303" blockId="26" point="2,1,2"/>
+	<city id="66" name="建宁东" terrain="3" x="1665" y="2718" model="model301" model2="model303" blockId="26" point="2,1,2"/>
+	<city id="67" name="答郎甸北" terrain="3" x="1676" y="2960" model="model301" model2="model303" blockId="26" point="2,1,2"/>
+	<city id="68" name="汉寿" terrain="6" x="1961" y="2419" model="model604" model2="model605" blockId="26" flag="5" point="2,1,2"/>
+	<city id="69" name="汉寿南" terrain="3" x="1813" y="2598" model="model301" model2="model303" blockId="26" point="2,1,2"/>
+	<city id="70" name="夷陵" terrain="5" x="2027" y="2871" model="model502" model2="model502" blockId="27" flag="5" point="2,1,2"/>
+	<city id="71" name="云南东" terrain="3" x="1036" y="3265" model="model301" model2="model303" blockId="32" point="2,1,2"/>
+	<city id="72" name="建宁南" terrain="3" x="1404" y="3024" model="model301" model2="model303" blockId="32" point="2,1,2"/>
+	<city id="73" name="答郎甸西" terrain="3" x="1461" y="3212" model="model301" model2="model302" blockId="32" point="2,1,2"/>
+	<city id="74" name="答郎甸" terrain="6" x="1696" y="3196" model="model604" model2="model605" blockId="32" flag="5" point="2,1,2"/>
+	<city id="75" name="答郎甸南" terrain="3" x="1623" y="3371" model="model301" model2="model303" blockId="32" point="2,1,2"/>
+	<city id="76" name="晋阳西" terrain="3" x="2310" y="189" model="model301" model2="model306" blockId="3" point="1,2,2"/>
+	<city id="77" name="晋阳山脉" terrain="3" x="2338" y="370" model="model301" model2="model306" blockId="3" point="1,2,2"/>
+	<city id="78" name="函谷关" terrain="5" x="2122" y="592" model="model502" model2="model502" blockId="3" flag="5" point="1,2,2"/>
+	<city id="79" name="晋阳" terrain="6" x="2572" y="215" model="model605" model2="model604" blockId="3" flag="5" point="1,2,2"/>
+	<city id="80" name="晋阳南" terrain="3" x="2636" y="435" model="model301" model2="model306" blockId="3" point="1,2,2"/>
+	<city id="81" name="晋阳东" terrain="3" x="2853" y="195" model="model301" model2="model306" blockId="3" point="1,2,2"/>
+	<city id="82" name="晋阳水域" terrain="4" x="2940" y="308" model="model401" model2="model401" blockId="3" point="1,2,2"/>
+	<city id="83" name="定军山" terrain="3" x="2050" y="816" model="model301" model2="model306" blockId="9" point="2,2,5"/>
+	<city id="84" name="上庸" terrain="6" x="2098" y="1004" model="model605" model2="model605" blockId="9" flag="5" point="2,2,5"/>
+	<city id="85" name="上庸南" terrain="1" x="2006" y="1138" model="model101" model2="model107" blockId="9" point="2,2,5"/>
+	<city id="86" name="函谷水域" terrain="4" x="2361" y="602" model="model401" model2="model401" blockId="9" point="1,2,2"/>
+	<city id="87" name="濮阳西" terrain="1" x="2310" y="728" model="model101" model2="model107" blockId="9" point="1,2,2"/>
+	<city id="88" name="晋阳外山" terrain="3" x="2588" y="641" model="model301" model2="model306" blockId="9" point="1,2,2"/>
+	<city id="89" name="濮阳" terrain="6" x="2542" y="822" model="model605" model2="model604" blockId="9" flag="5" point="1,2,2" sx="2300" sy="724" roadImg="13"/>
+	<city id="90" name="濮阳南" terrain="1" x="2451" y="967" model="model101" model2="model103" blockId="9" point="1,2,2"/>
+	<city id="255" x="2646" y="935" name="魏西城塞" model="model999" model2="model999" blockId="9" isCastle="1"/>
+	<city id="91" name="濮阳水域" terrain="4" x="2905" y="690" model="model401" model2="model401" blockId="9" point="1,2,2"/>
+	<city id="92" name="濮阳东" terrain="1" x="2813" y="833" model="model101" model2="model103" blockId="9" point="1,2,2"/>
+	<city id="93" name="邺城西" terrain="1" x="2591" y="1099" model="model101" model2="model103" blockId="9" point="1,2,2"/>
+	<city id="94" name="邺城北" terrain="1" x="2783" y="1016" model="model101" model2="model103" blockId="9" point="1,2,2"/>
+	<city id="95" name="邺城" terrain="6" x="2911" y="1169" model="model605" model2="model604" blockId="9" flag="5" point="1,2,2"/>
+	<city id="96" name="邺城南" terrain="1" x="2693" y="1245" model="model101" model2="model103" blockId="15" point="1,2,2"/>
+	<city id="97" name="樊城" terrain="6" x="2468" y="1652" model="model604" model2="model604" blockId="15" flag="5" point="2,2,2"/>
+	<city id="98" name="许昌" terrain="6" x="2781" y="1487" model="model604" model2="model604" blockId="15" flag="5" point="2,2,2" sx="2471" sy="1475" roadImg="15"/>
+	<city id="99" name="白帝东" terrain="3" x="2106" y="1943" model="model301" model2="model302" blockId="21" point="2,1,2"/>
+	<city id="100" name="汉寿东" terrain="3" x="2187" y="2337" model="model301" model2="model303" blockId="21" point="2,1,2"/>
+	<city id="101" name="麦城" terrain="3" x="2401" y="1947" model="world.city.slope2" blockId="21" point="2,2,2"/>
+	<city id="102" name="巫峡关" terrain="5" x="2339" y="2108" model="model503" model2="model503" blockId="21" flag="5" point="2,1,2"/>
+	<city id="103" name="江陵" terrain="6" x="2664" y="1932" model="model604" model2="model605" blockId="21" flag="5" point="2,2,2"/>
+	<city id="104" name="长坂坡" terrain="3" x="2524" y="2102" model="world.city.slope1r" blockId="21" point="2,2,2"/>
+	<city id="105" name="襄阳" terrain="6" x="2965" y="1826" model="model602" model2="model607" blockId="21" flag="2" point="2,2,2"/>
+	<city id="106" name="宜城" terrain="6" x="2826" y="2124" model="model604" model2="model605" blockId="21" flag="5" point="2,2,2" sx="2831" sy="2071" roadImg="17"/>
+	<city id="107" name="武陵" terrain="6" x="2214" y="2913" model="model604" model2="model605" blockId="27" flag="5" point="5,2,2"/>
+	<city id="108" name="武陵北" terrain="3" x="2331" y="2764" model="model301" model2="model303" blockId="27" point="5,2,2" sx="2246" sy="2761" roadImg="11"/>
+	<city id="109" name="长沙北" terrain="3" x="2690" y="2723" model="model303" model2="model305" blockId="27" point="5,2,2" sx="2666" sy="2724" roadImg="20"/>
+	<city id="110" name="衡阳北" terrain="1" x="2513" y="2872" model="model302" model2="model304" blockId="27" point="5,2,2"/>
+	<city id="111" name="长沙" terrain="6" x="2760" y="2919" model="model604" model2="model606" blockId="27" flag="5" point="5,2,2" sx="2523" sy="2937" roadImg="21"/>
+	<city id="112" name="零陵西" terrain="3" x="2081" y="3097" model="model301" model2="model303" blockId="33" point="5,2,2" sx="2075" sy="3111" roadImg="12"/>
+	<city id="113" name="衡阳" terrain="6" x="2505" y="3030" model="model604" model2="model605" blockId="33" flag="5" point="5,2,2"/>
+	<city id="114" name="零陵" terrain="6" x="2333" y="3199" model="model604" model2="model605" blockId="33" flag="5" point="5,2,2"/>
+	<city id="115" name="零陵南" terrain="3" x="2293" y="3402" model="model301" model2="model303" blockId="33" point="5,2,2"/>
+	<city id="116" name="桂阳西" terrain="1" x="2525" y="3267" model="model202" model2="model204" blockId="33" point="5,2,2"/>
+	<city id="117" name="桂阳" terrain="6" x="2729" y="3186" model="model604" model2="model606" blockId="33" flag="5" point="5,2,2"/>
+	<city id="118" name="桂阳南" terrain="3" x="2819" y="3364" model="model301" model2="model303" blockId="33" point="5,2,2" sx="2731" sy="3184" roadImg="22"/>
+	<city id="119" name="白马" terrain="6" x="3189" y="249" model="model605" model2="model604" blockId="4" flag="5" point="1,2,2"/>
+	<city id="120" name="洛阳西" terrain="1" x="3445" y="260" model="model101" model2="model102" blockId="4" point="1,2,2"/>
+	<city id="121" name="平原" terrain="6" x="3369" y="551" model="model604" model2="model604" blockId="4" flag="5" point="1,2,2"/>
+	<city id="122" name="洛阳郊外" terrain="3" x="3820" y="171" model="model301" model2="model301" blockId="4" point="1,2,2"/>
+	<city id="123" name="洛阳" terrain="6" x="3727" y="428" model="model601" model2="model601" blockId="4" flag="1"/>
+	<city id="124" name="濮阳郊外" terrain="1" x="3064" y="765" model="model101" model2="model103" blockId="10" point="1,2,2"/>
+	<city id="125" name="平原南" terrain="1" x="3298" y="728" model="model101" model2="model103" blockId="10" point="1,2,2" sx="3073" sy="707" roadImg="14"/>
+	<city id="126" name="邯郸" terrain="6" x="3219" y="900" model="model604" model2="model604" blockId="10" flag="5" point="1,2,2"/>
+	<city id="127" name="邺城东" terrain="1" x="3178" y="1106" model="model101" model2="model103" blockId="10" point="1,2,2"/>
+	<city id="128" name="南皮西" terrain="1" x="3532" y="696" model="model101" model2="model101" blockId="10" point="1,2,2"/>
+	<city id="256" x="3679" y="753" name="魏中城塞" model="model999" model2="model999" blockId="10" isCastle="1"/>
+	<city id="129" name="陈留西" terrain="1" x="3552" y="999" model="model101" model2="model103" blockId="10" point="1,2,2"/>
+	<city id="130" name="南皮" terrain="6" x="3776" y="607" model="model604" model2="model604" blockId="10" flag="5" point="1,2,2"/>
+	<city id="131" name="陈留北" terrain="1" x="3716" y="863" model="model101" model2="model102" blockId="10" point="1,2,2" sx="3681" sy="872" roadImg="24"/>
+	<city id="132" name="陈留" terrain="6" x="3852" y="1065" model="model602" model2="model607" blockId="10" flag="2" point="1,2,2"/>
+	<city id="133" name="虎牢关" terrain="5" x="3317" y="1339" model="model501" model2="model501" blockId="16" flag="5" point="1,2,2"/>
+	<city id="134" name="泗水" terrain="1" x="3146" y="1443" model="world.city.slope3l" blockId="16" point="2,2,2"/>
+	<city id="135" name="宛城" terrain="6" x="3046" y="1598" model="model604" model2="model606" blockId="16" flag="5" point="2,2,2"/>
+	<city id="136" name="陈留南" terrain="1" x="3641" y="1230" model="model101" model2="model103" blockId="16" point="1,2,2" sx="3304" sy="1222" roadImg="16"/>
+	<city id="137" name="新野" terrain="1" x="3571" y="1461" model="world.city.slope3r" blockId="16" point="2,2,2"/>
+	<city id="138" name="汝南" terrain="6" x="3405" y="1609" model="model604" model2="model606" blockId="16" flag="5" point="2,2,2"/>
+	<city id="139" name="江夏" terrain="6" x="3290" y="1872" model="model604" model2="model606" blockId="22" flag="5" point="2,2,2"/>
+	<city id="140" name="柴桑" terrain="6" x="3128" y="2048" model="model604" model2="model606" blockId="22" flag="5" point="2,2,2"/>
+	<city id="141" name="建昌北" terrain="1" x="3224" y="2345" model="model101" model2="model103" blockId="22" point="2,2,1"/>
+	<city id="142" name="华容" terrain="1" x="3667" y="1910" model="world.city.slope2" blockId="22" point="2,2,2"/>
+	<city id="143" name="汉阳" terrain="6" x="3625" y="1719" model="model604" model2="model606" blockId="16" flag="5" point="2,2,2" sx="3404" sy="1616" roadImg="18"/>
+	<city id="144" name="赤壁" terrain="5" x="3724" y="2071" model="model502" model2="model502" blockId="22" flag="5" point="2,2,1"/>
+	<city id="145" name="赤壁东" terrain="1" x="4018" y="1977" model="model101" model2="model103" blockId="23" point="2,2,1"/>
+	<city id="146" name="丹阳水域" terrain="4" x="3853" y="2303" model="model401" model2="model401" blockId="22" point="2,2,1"/>
+	<city id="147" name="建昌水域" terrain="4" x="3554" y="2340" model="model401" model2="model401" blockId="22" point="2,2,1"/>
+	<city id="148" name="建昌西" terrain="4" x="3094" y="2607" model="model401" model2="model401" blockId="28" point="2,2,1"/>
+	<city id="149" name="浔阳" terrain="5" x="3080" y="2967" model="model503" model2="model503" blockId="28" flag="5" point="2,2,1"/>
+	<city id="150" name="建昌" terrain="6" x="3349" y="2575" model="model604" model2="model606" blockId="28" flag="5" point="2,2,1"/>
+	<city id="151" name="建昌南" terrain="1" x="3314" y="2812" model="model101" model2="model104" blockId="28" point="2,2,1"/>
+	<city id="152" name="丹阳北" terrain="1" x="3839" y="2504" model="model101" model2="model104" blockId="28" point="2,2,1"/>
+	<city id="153" name="丹阳" terrain="6" x="3845" y="2654" model="model604" model2="model606" blockId="28" flag="5" point="2,2,1"/>
+	<city id="154" name="丹阳西" terrain="4" x="3691" y="2776" model="model401" model2="model401" blockId="28" point="2,2,1"/>
+	<city id="155" name="丹阳南" terrain="1" x="3959" y="2787" model="model101" model2="model104" blockId="28" point="2,2,1"/>
+	<city id="156" name="鄱阳西" terrain="4" x="3989" y="2953" model="model401" model2="model401" blockId="28" point="2,2,1"/>
+	<city id="157" name="浔阳水域" terrain="4" x="3248" y="3163" model="model401" model2="model401" blockId="34" point="2,2,1"/>
+	<city id="158" name="武昌北" terrain="1" x="3473" y="2992" model="model101" model2="model103" blockId="28" point="2,2,1" sx="3295" sy="2807" roadImg="23"/>
+	<city id="159" name="武昌" terrain="6" x="3515" y="3145" model="model604" model2="model606" blockId="34" flag="5" point="2,2,1"/>
+	<city id="160" name="武昌南" terrain="4" x="3507" y="3361" model="model401" model2="model401" blockId="34" point="2,2,1"/>
+	<city id="161" name="武昌东" terrain="4" x="3767" y="3122" model="model401" model2="model401" blockId="34" point="2,2,1"/>
+	<city id="263" x="3951" y="3092" name="吴西城塞" model="model999" model2="model999" blockId="34" isCastle="1"/>
+	<city id="162" name="蓟城西" terrain="1" x="4196" y="241" model="model101" model2="model101" blockId="5" point="1,2,2"/>
+	<city id="163" name="荥阳" terrain="6" x="4126" y="446" model="model604" model2="model604" blockId="5" flag="5" point="1,2,2"/>
+	<city id="164" name="蓟城" terrain="6" x="4500" y="300" model="model604" model2="model604" blockId="5" flag="5" point="1,2,2"/>
+	<city id="165" name="荥阳东" terrain="1" x="4354" y="497" model="model101" model2="model101" blockId="5" point="1,2,2"/>
+	<city id="166" name="蓟城东" terrain="1" x="4749" y="241" model="model101" model2="model101" blockId="5" point="1,2,2"/>
+	<city id="167" name="东郡北" terrain="1" x="4622" y="540" model="model101" model2="model101" blockId="5" point="1,2,2"/>
+	<city id="168" name="北海郊外" terrain="1" x="4895" y="425" model="model101" model2="model101" blockId="5" point="1,2,2"/>
+	<city id="169" name="平丘" terrain="6" x="4164" y="655" model="model604" model2="model604" blockId="11" flag="5" point="1,2,2"/>
+	<city id="170" name="平丘南" terrain="1" x="4041" y="816" model="model101" model2="model101" blockId="11" point="1,2,2"/>
+	<city id="171" name="陈留东" terrain="1" x="4122" y="1028" model="model101" model2="model102" blockId="11" point="1,2,2"/>
+	<city id="257" x="4167" y="870" name="魏东城塞" model="model999" model2="model999" blockId="11" isCastle="1"/>
+	<city id="172" name="东郡西" terrain="1" x="4340" y="783" model="model101" model2="model102" blockId="11" point="1,2,2" sx="4322" sy="791" roadImg="25"/>
+	<city id="173" name="东郡" terrain="6" x="4585" y="737" model="model604" model2="model604" blockId="11" flag="5" point="1,2,2"/>
+	<city id="174" name="东郡南" terrain="1" x="4641" y="926" model="model101" model2="model102" blockId="11" point="1,2,2"/>
+	<city id="175" name="下邳" terrain="6" x="4605" y="1153" model="model604" model2="model606" blockId="11" flag="5" point="2,5,2"/>
+	<city id="176" name="东郡东" terrain="1" x="4908" y="825" model="model101" model2="model101" blockId="11" point="1,2,2"/>
+	<city id="177" name="官渡" terrain="5" x="4973" y="1073" model="model502" model2="model502" blockId="11" flag="5" point="1,2,2"/>
+	<city id="178" name="陈留郊外" terrain="1" x="4024" y="1275" model="model101" model2="model103" blockId="17" point="1,2,2"/>
+	<city id="179" name="曲阿西" terrain="4" x="4070" y="1764" model="model401" model2="model401" blockId="17" point="2,2,1"/>
+	<city id="180" name="下邳西" terrain="3" x="4391" y="1230" model="model301" model2="model302" blockId="17" point="2,5,2"/>
+	<city id="181" name="下邳郊外" terrain="3" x="4313" y="1447" model="model302" model2="model304" blockId="17" point="2,5,2"/>
+	<city id="182" name="寿春水域" terrain="4" x="4188" y="1616" model="model401" model2="model401" blockId="17" point="2,5,2"/>
+	<city id="183" name="寿春西" terrain="4" x="4378" y="1634" model="model401" model2="model401" blockId="17" point="2,5,2"/>
+	<city id="184" name="下邳南" terrain="1" x="4587" y="1361" model="model101" model2="model103" blockId="17" point="2,5,2" sx="4575" sy="1356" roadImg="27"/>
+	<city id="185" name="徐州西" terrain="1" x="4572" y="1528" model="model101" model2="model103" blockId="17" point="2,5,2" sx="4577" sy="1462" roadImg="28"/>
+	<city id="186" name="寿春" terrain="6" x="4558" y="1746" model="model604" model2="model606" blockId="17" flag="5" point="2,5,2" sx="4380" sy="1636" roadImg="29"/>
+	<city id="187" name="下邳东" terrain="1" x="4827" y="1232" model="model101" model2="model105" blockId="17" point="2,5,2" sx="4593" sy="1169" roadImg="26"/>
+	<city id="188" name="徐州" terrain="6" x="4800" y="1464" model="model604" model2="model606" blockId="17" flag="5" point="2,5,2"/>
+	<city id="189" name="濡须坞" terrain="5" x="4875" y="1801" model="model502" model2="model502" blockId="23" flag="5" point="2,2,1"/>
+	<city id="190" name="庐江水域" terrain="4" x="4052" y="2236" model="model401" model2="model401" blockId="23" point="2,2,1" sx="3692" sy="2062" roadImg="19"/>
+	<city id="191" name="曲阿" terrain="6" x="4306" y="1831" model="model604" model2="model606" blockId="23" flag="5" point="2,2,1"/>
+	<city id="192" name="九江西" terrain="4" x="4394" y="2117" model="model401" model2="model401" blockId="23" point="2,2,1"/>
+	<city id="193" name="庐江" terrain="6" x="4340" y="2399" model="model602" model2="model607" blockId="23" flag="2" point="2,2,1"/>
+	<city id="194" name="九江北" terrain="1" x="4598" y="1960" model="model101" model2="model104" blockId="23" point="2,2,1"/>
+	<city id="261" x="4684" y="2057" name="吴中城塞" model="model999" model2="model999" blockId="23" isCastle="1"/>
+	<city id="195" name="九江" terrain="6" x="4515" y="2211" model="model604" model2="model606" blockId="23" flag="5" point="2,2,1"/>
+	<city id="196" name="濡须坞南" terrain="1" x="4864" y="2016" model="model101" model2="model104" blockId="23" point="2,2,1"/>
+	<city id="197" name="九江东" terrain="4" x="4777" y="2262" model="model401" model2="model401" blockId="23" point="2,2,1"/>
+	<city id="198" name="丹阳东" terrain="4" x="4083" y="2572" model="model401" model2="model401" blockId="29" point="2,2,1"/>
+	<city id="199" name="汉津" terrain="6" x="4301" y="2608" model="model604" model2="model606" blockId="29" flag="5" point="2,2,1" sx="4324" sy="2401" roadImg="32"/>
+	<city id="200" name="汉津南" terrain="4" x="4308" y="2810" model="model401" model2="model401" blockId="29" point="2,2,1"/>
+	<city id="201" name="汉津东" terrain="1" x="4569" y="2678" model="model101" model2="model104" blockId="29" point="2,2,1"/>
+	<city id="202" name="湖口" terrain="6" x="4505" y="2952" model="model604" model2="model606" blockId="29" flag="5" point="2,2,1"/>
+	<city id="203" name="南昌西" terrain="1" x="4786" y="2509" model="model101" model2="model104" blockId="29" point="2,2,1"/>
+	<city id="204" name="吴郡北" terrain="4" x="4766" y="2826" model="model401" model2="model401" blockId="29" point="2,2,1"/>
+	<city id="205" name="鄱阳" terrain="6" x="4197" y="3057" model="model604" model2="model606" blockId="35" flag="5" point="2,2,1"/>
+	<city id="206" name="屯田区" terrain="4" x="4106" y="3294" model="farmCity" model2="model609" blockId="35" flag="4"/>
+	<city id="207" name="建业" terrain="6" x="4426" y="3167" model="model601" model2="model603" blockId="35" flag="1"/>
+	<city id="208" name="建业南" terrain="4" x="4474" y="3380" model="model401" model2="model401" blockId="35" point="2,2,1"/>
+	<city id="209" name="吴郡" terrain="6" x="4874" y="2986" model="model604" model2="model606" blockId="29" flag="5" point="2,2,1" sx="4800" sy="2883" roadImg="33"/>
+	<city id="210" name="广陵" terrain="6" x="4726" y="3255" model="model604" model2="model606" blockId="35" flag="5" point="2,2,1"/>
+	<city id="211" name="广陵南" terrain="1" x="4781" y="3486" model="model101" model2="model105" blockId="35" point="2,2,1"/>
+	<city id="212" name="广陵东" terrain="4" x="4966" y="3202" model="model401" model2="model401" blockId="35" point="2,2,1"/>
+	<city id="213" name="北平西" terrain="1" x="5105" y="307" model="model101" model2="model101" blockId="6" point="1,2,2"/>
+	<city id="214" name="北海" terrain="6" x="5018" y="584" model="model604" model2="model604" blockId="6" flag="5" point="1,2,2"/>
+	<city id="215" name="北平北" terrain="1" x="5243" y="181" model="model101" model2="model101" blockId="6" point="1,2,2"/>
+	<city id="216" name="北平" terrain="6" x="5372" y="344" model="model605" model2="model604" blockId="6" flag="5" point="1,2,2"/>
+	<city id="217" name="北平南" terrain="1" x="5289" y="528" model="model101" model2="model101" blockId="6" point="1,2,2"/>
+	<city id="218" name="北平东" terrain="1" x="5660" y="360" model="model101" model2="model101" blockId="6" point="1,2,2"/>
+	<city id="219" name="东海西" terrain="1" x="5183" y="899" model="model101" model2="model101" blockId="12" point="1,2,2"/>
+	<city id="220" name="东海北" terrain="1" x="5426" y="677" model="model101" model2="model102" blockId="12" point="1,2,2"/>
+	<city id="221" name="东海" terrain="6" x="5412" y="862" model="model605" model2="model606" blockId="12" flag="5" point="1,2,2"/>
+	<city id="222" name="东海东" terrain="1" x="5648" y="899" model="model101" model2="model102" blockId="12" point="1,2,2"/>
+	<city id="223" name="东海南" terrain="3" x="5460" y="1025" model="model301" model2="model301" blockId="12" point="1,2,2"/>
+	<city id="224" name="临淄西" terrain="1" x="5040" y="1330" model="model202" model2="model204" blockId="18" point="2,5,2"/>
+	<city id="225" name="合肥" terrain="6" x="5146" y="1666" model="model604" model2="model606" blockId="18" flag="5" point="2,5,2" sx="5165" sy="1444" roadImg="30"/>
+	<city id="226" name="临淄" terrain="6" x="5281" y="1257" model="model604" model2="model606" blockId="18" flag="5" point="2,5,2"/>
+	<city id="227" name="合肥北" terrain="1" x="5261" y="1443" model="model303" model2="model305" blockId="18" point="2,5,2"/>
+	<city id="228" name="临淄东" terrain="4" x="5569" y="1230" model="model401" model2="model401" blockId="18" point="2,5,2"/>
+	<city id="229" name="临淄水域" terrain="4" x="5542" y="1416" model="model401" model2="model401" blockId="18" point="2,5,2"/>
+	<city id="230" name="合肥东" terrain="1" x="5475" y="1569" model="model101" model2="model103" blockId="18" point="2,5,2"/>
+	<city id="231" name="合肥水域" terrain="4" x="5547" y="1764" model="model401" model2="model401" blockId="18" point="2,5,2"/>
+	<city id="232" name="濡须坞东" terrain="1" x="5077" y="1878" model="model101" model2="model103" blockId="24" point="2,2,1"/>
+	<city id="262" x="5037" y="2016" name="吴东城塞" model="model999" model2="model999" blockId="24" isCastle="1"/>
+	<city id="233" name="江都西" terrain="4" x="5157" y="2065" model="model401" model2="model401" blockId="24" point="2,2,1"/>
+	<city id="234" name="南昌北" terrain="1" x="5053" y="2268" model="model101" model2="model104" blockId="24" point="2,2,1" sx="5069" sy="2080" roadImg="31"/>
+	<city id="235" name="合肥南" terrain="4" x="5362" y="1871" model="model401" model2="model401" blockId="24" point="2,5,2"/>
+	<city id="236" name="江都北" terrain="4" x="5605" y="1873" model="model401" model2="model401" blockId="24" point="2,2,1"/>
+	<city id="237" name="江都" terrain="6" x="5523" y="2118" model="model604" model2="model606" blockId="24" flag="5" point="2,2,1"/>
+	<city id="238" name="江都水域" terrain="4" x="5729" y="2297" model="model401" model2="model401" blockId="24" point="2,2,1"/>
+	<city id="239" name="南昌" terrain="6" x="5041" y="2490" model="model604" model2="model606" blockId="30" flag="5" point="2,2,1"/>
+	<city id="240" name="南昌南" terrain="4" x="4979" y="2709" model="model401" model2="model401" blockId="29" point="2,2,1"/>
+	<city id="241" name="吴郡水域" terrain="4" x="5038" y="2865" model="model401" model2="model401" blockId="30" point="2,2,1"/>
+	<city id="242" name="南昌东" terrain="4" x="5336" y="2499" model="model401" model2="model401" blockId="30" point="2,2,1"/>
+	<city id="243" name="建安郊外" terrain="1" x="5338" y="2725" model="model101" model2="model104" blockId="30" point="2,2,1"/>
+	<city id="244" name="建安北" terrain="1" x="5639" y="2678" model="model101" model2="model105" blockId="30" point="2,2,1"/>
+	<city id="245" name="建安" terrain="6" x="5560" y="2911" model="model604" model2="model606" blockId="30" flag="5" point="2,2,1"/>
+	<city id="246" name="会稽" terrain="6" x="5212" y="3204" model="model604" model2="model606" blockId="36" flag="5" point="2,2,1"/>
+	<city id="247" name="会稽水域" terrain="4" x="5405" y="3026" model="model401" model2="model401" blockId="36" point="2,2,1"/>
+	<city id="248" name="会稽东" terrain="4" x="5644" y="3311" model="model401" model2="model401" blockId="36" point="2,2,1"/>
+	<city id="249" name="建安水域" terrain="4" x="5810" y="3002" model="model401" model2="model401" blockId="36" point="2,2,1"/>
+	<city id="250" name="西戎城" terrain="6" x="308" y="2608" model="model603" model2="model608" blockId="25" flag="3"/>
+	<city id="251" name="北狄城" terrain="6" x="4576" y="154" model="model603" model2="model608" blockId="5" flag="3"/>
+	<city id="252" name="东夷城" terrain="6" x="5165" y="3396" model="model603" model2="model608" blockId="36" flag="3"/>
+	<city id="253" name="屯田区" terrain="4" x="241" y="2094" model="farmCity" model2="model609" blockId="19" flag="4"/>
+	<city id="254" name="屯田区" terrain="4" x="3900" y="340" model="farmCity" model2="model609" blockId="4" flag="4"/>
+</cities>
+
+<smallCities>
+	<smallCity id="11" x="20.8" y="36.55"/>
+	<smallCity id="12" x="19.85" y="42.25"/>
+	<smallCity id="88" x="71.9" y="22.65"/>
+	<smallCity id="14" x="19.75" y="48.7"/>
+	<smallCity id="17" x="12.75" y="55.5"/>
+	<smallCity id="19" x="17.85" y="58.7"/>
+	<smallCity id="22" x="20.9" y="68.4"/>
+	<smallCity id="6" x="24.8" y="21.45"/>
+	<smallCity id="10" x="23.85" y="32.7"/>
+	<smallCity id="8" x="19.85" y="27.25"/>
+	<smallCity id="42" x="42.2" y="30.65"/>
+	<smallCity id="13" x="26.85" y="44.5"/>
+	<smallCity id="50" x="37.8" y="51.25"/>
+	<smallCity id="15" x="26.85" y="49.95"/>
+	<smallCity id="16" x="20.75" y="53.7"/>
+	<smallCity id="20" x="24.75" y="59.25"/>
+	<smallCity id="23" x="28.8" y="68.25"/>
+	<smallCity id="24" x="19.8" y="74.3"/>
+	<smallCity id="25" x="17.75" y="80.5"/>
+	<smallCity id="27" x="17.95" y="86.25"/>
+	<smallCity id="26" x="25.9" y="77.5"/>
+	<smallCity id="62" x="34.85" y="76.5"/>
+	<smallCity id="28" x="26.9" y="83.65"/>
+	<smallCity id="29" x="21.75" y="92.5"/>
+	<smallCity id="31" x="34.95" y="10.25"/>
+	<smallCity id="33" x="39.95" y="15.5"/>
+	<smallCity id="32" x="34.95" y="18.25"/>
+	<smallCity id="39" x="35.95" y="26.5"/>
+	<smallCity id="41" x="34.95" y="34.45"/>
+	<smallCity id="40" x="44.95" y="26.45"/>
+	<smallCity id="47" x="32.8" y="46.3"/>
+	<smallCity id="49" x="37.8" y="45.9"/>
+	<smallCity id="35" x="48.95" y="11.7"/>
+	<smallCity id="34" x="42.95" y="21.6"/>
+	<smallCity id="48" x="31.75" y="51.2"/>
+	<smallCity id="18" x="28.95" y="54.4"/>
+	<smallCity id="46" x="37.95" y="38.4"/>
+	<smallCity id="51" x="42.75" y="43.6"/>
+	<smallCity id="55" x="35.95" y="66.35"/>
+	<smallCity id="54" x="32.8" y="58.7"/>
+	<smallCity id="36" x="46.95" y="16.7"/>
+	<smallCity id="38" x="49.8" y="21.7"/>
+	<smallCity id="43" x="47.95" y="31.7"/>
+	<smallCity id="44" x="44.75" y="34.65"/>
+	<smallCity id="52" x="48.8" y="47.45"/>
+	<smallCity id="57" x="39.75" y="59.55"/>
+	<smallCity id="63" x="40.95" y="71.25"/>
+	<smallCity id="64" x="41.95" y="78.4"/>
+	<smallCity id="71" x="32.75" y="88.25"/>
+	<smallCity id="30" x="25.95" y="87.5"/>
+	<smallCity id="76" x="64.8" y="11.5"/>
+	<smallCity id="77" x="64.95" y="16.4"/>
+	<smallCity id="37" x="52.9" y="16.7"/>
+	<smallCity id="78" x="59.2" y="21.25"/>
+	<smallCity id="45" x="51.95" y="29.45"/>
+	<smallCity id="79" x="70.95" y="11.45"/>
+	<smallCity id="86" x="65.95" y="21.5"/>
+	<smallCity id="83" x="58.9" y="27.5"/>
+	<smallCity id="84" x="58.75" y="31.4"/>
+	<smallCity id="85" x="56.95" y="35.5"/>
+	<smallCity id="61" x="50.9" y="59.65"/>
+	<smallCity id="90" x="67.85" y="30.45"/>
+	<smallCity id="60" x="52.75" y="55.45"/>
+	<smallCity id="53" x="52.95" y="50.2"/>
+	<smallCity id="107" x="61.8" y="79.5"/>
+	<smallCity id="58" x="46.75" y="53.65"/>
+	<smallCity id="59" x="44.8" y="60.65"/>
+	<smallCity id="65" x="49.95" y="67.7"/>
+	<smallCity id="66" x="47.8" y="75.7"/>
+	<smallCity id="67" x="48.9" y="81.5"/>
+	<smallCity id="73" x="42.8" y="87.45"/>
+	<smallCity id="72" x="42.8" y="82.9"/>
+	<smallCity id="68" x="55.9" y="67.25"/>
+	<smallCity id="100" x="61.8" y="65.6"/>
+	<smallCity id="70" x="56.95" y="77.4"/>
+	<smallCity id="69" x="52.85" y="72.25"/>
+	<smallCity id="74" x="48.95" y="86.5"/>
+	<smallCity id="75" x="47.8" y="91.7"/>
+	<smallCity id="99" x="59.9" y="55.65"/>
+	<smallCity id="87" x="64.8" y="25.5"/>
+	<smallCity id="91" x="79.75" y="23.65"/>
+	<smallCity id="89" x="69.8" y="27.25"/>
+	<smallCity id="106" x="76.95" y="59.65"/>
+	<smallCity id="96" x="75" y="38.65"/>
+	<smallCity id="93" x="71.7" y="34.65"/>
+	<smallCity id="98" x="76.95" y="44.7"/>
+	<smallCity id="135" x="82.95" y="47.25"/>
+	<smallCity id="105" x="80.75" y="52.7"/>
+	<smallCity id="103" x="73.75" y="54.65"/>
+	<smallCity id="97" x="68.95" y="48.45"/>
+	<smallCity id="102" x="64.95" y="60.65"/>
+	<smallCity id="101" x="65.75" y="55.25"/>
+	<smallCity id="108" x="64.85" y="76.65"/>
+	<smallCity id="110" x="69.85" y="78.7"/>
+	<smallCity id="112" x="58.75" y="85.4"/>
+	<smallCity id="111" x="75.95" y="80.45"/>
+	<smallCity id="113" x="69.9" y="83.65"/>
+	<smallCity id="109" x="73.85" y="75.7"/>
+	<smallCity id="104" x="69.95" y="60.35"/>
+	<smallCity id="115" x="63.65" y="91.7"/>
+	<smallCity id="114" x="64.95" y="86.65"/>
+	<smallCity id="116" x="69.75" y="89.25"/>
+	<smallCity id="80" x="72.8" y="17.7"/>
+	<smallCity id="119" x="86.65" y="12"/>
+	<smallCity id="122" x="103.2" y="11.4"/>
+	<smallCity id="162" x="109.55" y="14.5"/>
+	<smallCity id="166" x="125.8" y="13.5"/>
+	<smallCity id="197" x="125.8" y="62.25"/>
+	<smallCity id="222" x="148.75" y="29.65"/>
+	<smallCity id="202" x="119.5" y="80.7"/>
+	<smallCity id="198" x="108.8" y="70.7"/>
+	<smallCity id="168" x="128.55" y="17.5"/>
+	<smallCity id="164" x="119.25" y="14.7"/>
+	<smallCity id="167" x="122.6" y="20.6"/>
+	<smallCity id="170" x="107.1" y="27.45"/>
+	<smallCity id="173" x="122.1" y="25.7"/>
+	<smallCity id="172" x="115.9" y="26.5"/>
+	<smallCity id="176" x="129.95" y="27.5"/>
+	<smallCity id="184" x="121.9" y="40.3"/>
+	<smallCity id="175" x="121.8" y="35.3"/>
+	<smallCity id="177" x="130.8" y="33.7"/>
+	<smallCity id="185" x="121.6" y="45.65"/>
+	<smallCity id="188" x="126.8" y="43.6"/>
+	<smallCity id="194" x="121.85" y="55.5"/>
+	<smallCity id="165" x="115.4" y="19.4"/>
+	<smallCity id="163" x="107.55" y="18.45"/>
+	<smallCity id="123" x="99.75" y="16.6"/>
+	<smallCity id="120" x="92.9" y="13.45"/>
+	<smallCity id="121" x="90.6" y="20.6"/>
+	<smallCity id="124" x="83.8" y="26.25"/>
+	<smallCity id="169" x="111.15" y="23.4"/>
+	<smallCity id="130" x="101.2" y="22.45"/>
+	<smallCity id="131" x="99.95" y="28.7"/>
+	<smallCity id="171" x="109.85" y="32.45"/>
+	<smallCity id="180" x="115.8" y="37.4"/>
+	<smallCity id="81" x="77.75" y="11.55"/>
+	<smallCity id="82" x="80.85" y="14.65"/>
+	<smallCity id="92" x="76.95" y="27.5"/>
+	<smallCity id="94" x="76.95" y="32.4"/>
+	<smallCity id="95" x="79.75" y="36.2"/>
+	<smallCity id="125" x="89.9" y="25.45"/>
+	<smallCity id="126" x="87.8" y="29.6"/>
+	<smallCity id="133" x="89.95" y="40"/>
+	<smallCity id="139" x="88.8" y="53.55"/>
+	<smallCity id="140" x="84.75" y="58.7"/>
+	<smallCity id="143" x="96.7" y="50.45"/>
+	<smallCity id="118" x="77.75" y="91.7"/>
+	<smallCity id="117" x="74.75" y="86.5"/>
+	<smallCity id="141" x="87.75" y="65.5"/>
+	<smallCity id="134" x="84.75" y="41.25"/>
+	<smallCity id="128" x="95.55" y="24.25"/>
+	<smallCity id="127" x="86.75" y="34.4"/>
+	<smallCity id="129" x="95.95" y="32.45"/>
+	<smallCity id="132" x="102.75" y="33.7"/>
+	<smallCity id="136" x="98.2" y="37.5"/>
+	<smallCity id="137" x="95.95" y="43.65"/>
+	<smallCity id="138" x="91.8" y="47.5"/>
+	<smallCity id="145" x="106.8" y="56.4"/>
+	<smallCity id="146" x="101.75" y="64.5"/>
+	<smallCity id="174" x="122.85" y="30.4"/>
+	<smallCity id="183" x="116.8" y="47.3"/>
+	<smallCity id="178" x="107.55" y="38.65"/>
+	<smallCity id="142" x="98.75" y="54.7"/>
+	<smallCity id="144" x="99.75" y="58.7"/>
+	<smallCity id="179" x="108.8" y="51.5"/>
+	<smallCity id="56" x="92.9" y="57.7"/>
+	<smallCity id="152" x="102.85" y="69.65"/>
+	<smallCity id="147" x="95.8" y="65.5"/>
+	<smallCity id="148" x="83.8" y="72.65"/>
+	<smallCity id="153" x="102.8" y="73.25"/>
+	<smallCity id="149" x="83.8" y="81.5"/>
+	<smallCity id="151" x="89.9" y="76.65"/>
+	<smallCity id="187" x="127.8" y="38.65"/>
+	<smallCity id="181" x="113.95" y="43.35"/>
+	<smallCity id="182" x="111.95" y="46.7"/>
+	<smallCity id="186" x="120.75" y="50.25"/>
+	<smallCity id="190" x="107.8" y="62.25"/>
+	<smallCity id="150" x="90.6" y="71.25"/>
+	<smallCity id="161" x="100.95" y="84.65"/>
+	<smallCity id="156" x="106.8" y="80.5"/>
+	<smallCity id="154" x="97.95" y="76.65"/>
+	<smallCity id="155" x="105.95" y="76.5"/>
+	<smallCity id="189" x="128.55" y="51.55"/>
+	<smallCity id="195" x="119.75" y="62.25"/>
+	<smallCity id="196" x="128.95" y="57.7"/>
+	<smallCity id="191" x="114.9" y="52.7"/>
+	<smallCity id="192" x="115.9" y="59.35"/>
+	<smallCity id="193" x="114.9" y="66.35"/>
+	<smallCity id="160" x="94.8" y="90.5"/>
+	<smallCity id="159" x="94.8" y="85.65"/>
+	<smallCity id="158" x="93.8" y="81.25"/>
+	<smallCity id="157" x="87.95" y="86.25"/>
+	<smallCity id="21" x="17.95" y="63.65"/>
+	<smallCity id="1" x="20.85" y="12.25"/>
+	<smallCity id="4" x="20.85" y="17.05"/>
+	<smallCity id="214" x="131.8" y="21.35"/>
+	<smallCity id="2" x="15.95" y="15.5"/>
+	<smallCity id="3" x="26.85" y="14.7"/>
+	<smallCity id="219" x="135.8" y="29.2"/>
+	<smallCity id="9" x="25.55" y="26.4"/>
+	<smallCity id="5" x="17.85" y="22.15"/>
+	<smallCity id="7" x="14.95" y="29.9"/>
+	<smallCity id="252" x="134.25" y="91"/>
+	<smallCity id="250" x="13.8" y="71.95"/>
+	<smallCity id="251" x="119.2" y="9.2"/>
+	<smallCity id="200" x="114.9" y="76.65"/>
+	<smallCity id="199" x="114.9" y="72.5"/>
+	<smallCity id="228" x="145.5" y="37.4"/>
+	<smallCity id="209" x="128.55" y="81.5"/>
+	<smallCity id="210" x="124.75" y="88.25"/>
+	<smallCity id="215" x="137.75" y="11.5"/>
+	<smallCity id="201" x="120.85" y="73.55"/>
+	<smallCity id="220" x="143" y="23.65"/>
+	<smallCity id="216" x="140.75" y="15.25"/>
+	<smallCity id="221" x="141.75" y="28"/>
+	<smallCity id="223" x="142.75" y="32.5"/>
+	<smallCity id="213" x="133.75" y="13.75"/>
+	<smallCity id="224" x="133.75" y="40.3"/>
+	<smallCity id="226" x="138.75" y="38.25"/>
+	<smallCity id="225" x="135.75" y="48.7"/>
+	<smallCity id="242" x="139.75" y="68.4"/>
+	<smallCity id="231" x="145.75" y="50.25"/>
+	<smallCity id="230" x="143.75" y="46.7"/>
+	<smallCity id="217" x="138.75" y="19.4"/>
+	<smallCity id="218" x="148.5" y="15.25"/>
+	<smallCity id="227" x="137.75" y="43.35"/>
+	<smallCity id="207" x="117.7" y="86.25"/>
+	<smallCity id="211" x="126.8" y="94.5"/>
+	<smallCity id="229" x="145.75" y="42"/>
+	<smallCity id="205" x="111.95" y="83.65"/>
+	<smallCity id="206" x="109.85" y="87.5"/>
+	<smallCity id="212" x="130.8" y="86.25"/>
+	<smallCity id="204" x="125.8" y="77.5"/>
+	<smallCity id="203" x="126.8" y="69.65"/>
+	<smallCity id="208" x="118.75" y="90.5"/>
+	<smallCity id="234" x="132.75" y="63.5"/>
+	<smallCity id="243" x="139.75" y="74.3"/>
+	<smallCity id="240" x="130.8" y="74.7"/>
+	<smallCity id="236" x="146.75" y="54.7"/>
+	<smallCity id="241" x="133.75" y="78.5"/>
+	<smallCity id="239" x="132.75" y="68.4"/>
+	<smallCity id="244" x="147.75" y="73.7"/>
+	<smallCity id="237" x="144.75" y="59.4"/>
+	<smallCity id="233" x="135.8" y="58.7"/>
+	<smallCity id="232" x="133.75" y="53.25"/>
+	<smallCity id="238" x="149.75" y="64.5"/>
+	<smallCity id="235" x="140.75" y="52.7"/>
+	<smallCity id="245" x="145.75" y="79.7"/>
+	<smallCity id="248" x="147.75" y="89.5"/>
+	<smallCity id="246" x="136.75" y="86.65"/>
+	<smallCity id="249" x="153.75" y="82.9"/>
+	<smallCity id="247" x="141.75" y="82.9"/>
+	<smallCity id="253" x="11.75" y="60.5"/>
+	<smallCity id="254" x="103.75" y="16.25"/>
+</smallCities>
+
+<armyDepots>
+	<armyDepot id="41" x="95" y="33"/>
+	<armyDepot id="133" x="95" y="33"/>
+	<armyDepot id="144" x="95" y="26"/>
+	<armyDepot id="189" x="95" y="26"/>
+	<armyDepot id="78" x="95" y="26"/>
+	<armyDepot id="102" x="95" y="33"/>
+	<armyDepot id="70" x="95" y="26"/>
+	<armyDepot id="149" x="95" y="33"/>
+	<armyDepot id="177" x="95" y="26"/>
+	<armyDepot id="0" x="95" y="33"/>
+</armyDepots>
+</config>
