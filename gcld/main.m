@@ -22,6 +22,8 @@ elseif index == 9
     drawNanzhao();
 elseif index == 10
     drawQxgj();
+elseif index == 11
+    drawXiongnu();
 end
 
 end

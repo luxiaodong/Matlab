@@ -1,0 +1,113 @@
+<config>
+  <map row="3" column="3" width="1000" height="600"/>
+  <cities>
+    <city id="9301" x="606" y="202" name="大本营" model="model603" model2="model603" terrain="1"/>
+    <city id="9302" x="325" y="492" name="巴尔塔尔" model="model301" model2="model301" terrain="3"/>
+    <city id="9303" x="717" y="540" name="比斯克" model="model305" model2="model305" terrain="1"/>
+    <city id="9304" x="328" y="797" name="巴尔塔尔南" model="model305" model2="model305" terrain="3"/>
+    <city id="9305" x="710" y="900" name="阿勒泰" model="model101" model2="model101" terrain="3"/>
+    <city id="9306" x="393" y="1127" name="塔城" model="model103" model2="model103" terrain="1"/>
+    <city id="9307" x="685" y="1247" name="吉木乃" model="model103" model2="model103" terrain="1"/>
+    <city id="9308" x="1022" y="1081" name="科布多" model="model305" model2="model305" terrain="3"/>
+    <city id="9309" x="737" y="1537" name="青河" model="model305" model2="model305" terrain="3"/>
+    <city id="9310" x="1087" y="1427" name="涿邪山" model="model305" model2="model305" terrain="3"/>
+    <city id="9311" x="1200" y="202" name="阿巴砍" model="model101" model2="model101" terrain="1"/>
+    <city id="9312" x="1089" y="458" name="泰谢特" model="model103" model2="model103" terrain="1"/>
+    <city id="9313" x="1008" y="729" name="克孜尔" model="model301" model2="model301" terrain="3"/>
+    <city id="9314" x="1414" y="574" name="伊尔库茨克" model="model103" model2="model103" terrain="1"/>
+    <city id="9315" x="1343" y="916" name="单于王庭" model="model608" model2="model608" terrain="3"/>
+    <city id="9316" x="1447" y="1295" name="木伦" model="model101" model2="model101" terrain="1"/>
+    <city id="9317" x="1629" y="220" name="乌兰乌德北" model="model401" model2="model401" terrain="4"/>
+    <city id="9318" x="1750" y="483" name="乌兰乌德" model="model401" model2="model401" terrain="4"/>
+    <city id="9319" x="1716" y="724" name="单于王庭" model="model608" model2="model608" terrain="1"/>
+    <city id="9320" x="1668" y="1020" name="单于王庭" model="model608" model2="model608" terrain="1"/>
+    <city id="9321" x="1793" y="1487" name="车车尔勒格" model="model101" model2="model101" terrain="1"/>
+    <city id="9322" x="2002" y="275" name="巴格达林西" model="model103" model2="model103" terrain="1"/>
+    <city id="9323" x="2127" y="545" name="乌兰乌德东" model="model305" model2="model305" terrain="3"/>
+    <city id="9324" x="2014" y="1004" name="狼屠胥山" model="model305" model2="model305" terrain="3"/>
+    <city id="9325" x="2206" y="1245" name="勿看巴托" model="model305" model2="model305" terrain="1"/>
+    <city id="9326" x="2214" y="1545" name="二连浩特" model="model305" model2="model305" terrain="1"/>
+    <city id="9327" x="2389" y="277" name="巴格达林" model="model101" model2="model101" terrain="1"/>
+    <city id="9328" x="2758" y="294" name="尼布楚" model="model401" model2="model401" terrain="4"/>
+    <city id="9329" x="2547" y="583" name="赤塔" model="model101" model2="model101" terrain="1"/>
+    <city id="9330" x="2270" y="789" name="乔巴山" model="model305" model2="model305" terrain="3"/>
+    <city id="9331" x="2794" y="875" name="博尔康亚" model="model401" model2="model401" terrain="4"/>
+    <city id="9332" x="2508" y="1006" name="塞音山达北" model="model103" model2="model103" terrain="1"/>
+    <city id="9333" x="2636" y="1247" name="塞音山达" model="model305" model2="model305" terrain="1"/>
+    <city id="9334" x="2737" y="1489" name="苏尼特右旗" model="model401" model2="model401" terrain="4"/>
+  </cities>
+  <smallCities>
+    <smallCity id="9301" x="15" y="5"/>
+    <smallCity id="9302" x="8" y="12"/>
+    <smallCity id="9303" x="17" y="13"/>
+    <smallCity id="9304" x="8" y="19"/>
+    <smallCity id="9305" x="17" y="22"/>
+    <smallCity id="9306" x="9" y="28"/>
+    <smallCity id="9307" x="17" y="31"/>
+    <smallCity id="9308" x="25" y="27"/>
+    <smallCity id="9309" x="18" y="38"/>
+    <smallCity id="9310" x="27" y="35"/>
+    <smallCity id="9311" x="30" y="5"/>
+    <smallCity id="9312" x="27" y="11"/>
+    <smallCity id="9313" x="25" y="18"/>
+    <smallCity id="9314" x="35" y="14"/>
+    <smallCity id="9315" x="33" y="22"/>
+    <smallCity id="9316" x="36" y="32"/>
+    <smallCity id="9317" x="40" y="5"/>
+    <smallCity id="9318" x="43" y="12"/>
+    <smallCity id="9319" x="42" y="18"/>
+    <smallCity id="9320" x="41" y="25"/>
+    <smallCity id="9321" x="44" y="37"/>
+    <smallCity id="9322" x="50" y="6"/>
+    <smallCity id="9323" x="53" y="13"/>
+    <smallCity id="9324" x="50" y="25"/>
+    <smallCity id="9325" x="55" y="31"/>
+    <smallCity id="9326" x="55" y="38"/>
+    <smallCity id="9327" x="59" y="6"/>
+    <smallCity id="9328" x="68" y="7"/>
+    <smallCity id="9329" x="63" y="14"/>
+    <smallCity id="9330" x="56" y="19"/>
+    <smallCity id="9331" x="69" y="21"/>
+    <smallCity id="9332" x="62" y="25"/>
+    <smallCity id="9333" x="65" y="31"/>
+    <smallCity id="9334" x="68" y="37"/>
+  </smallCities>
+  <roads>
+    <road city="9301-9303" points="616|221;710|540;650|322;669|394;676|455"/>
+    <road city="9301-9302" points="586|222;351|489;532|319;457|373;391|429"/>
+    <road city="9302-9304" points="335|498;338|797;303|575;296|621;292|669;297|716"/>
+    <road city="9304-9305" points="337|802;722|900;410|854;483|875;575|893"/>
+    <road city="9305-9306" points="712|927;402|1127;643|983;579|1016;491|1056"/>
+    <road city="9306-9307" points="397|1133;683|1243;497|1135;545|1156;600|1183"/>
+    <road city="9305-9308" points="722|906;1022|1079;810|958;847|989;893|1029;935|1054"/>
+    <road city="9307-9309" points="687|1252;741|1539;725|1341;729|1391;731|1445"/>
+    <road city="9307-9310" points="716|1247;1072|1433;814|1262;866|1285;918|1314;972|1364"/>
+    <road city="9311-9312" points="1212|191;1108|452;1235|275;1231|320;1212|366;1172|412"/>
+    <road city="9312-9303" points="1108|460;725|537;1012|489;950|497;887|502;812|510"/>
+    <road city="9303-9313" points="715|548;1015|725;776|612;829|640;897|676"/>
+    <road city="9313-9314" points="1016|735;1412|575;1104|745;1160|739;1214|720;1270|693;1320|654"/>
+    <road city="9308-9315" points="1033|1085;1354|918;1145|1106;1210|1104;1268|1070;1318|1020"/>
+    <road city="9310-9316" points="1091|1443;1452|1289;1189|1408;1239|1385;1289|1362;1352|1333"/>
+    <road city="9314-9317" points="1427|562;1629|241;1439|495;1458|443;1489|381;1541|322"/>
+    <road city="9317-9318" points="1629|245;1762|497;1654|312;1668|356;1695|414"/>
+    <road city="9318-9323" points="1752|495;2137|541;1825|522;1893|527;1954|518;2018|518"/>
+    <road city="9320-9324" points="1668|1033;2012|1004;1752|1060;1814|1062;1885|1041"/>
+    <road city="9322-9318" points="2000|275;1756|493;1922|327;1883|358;1831|410"/>
+    <road city="9316-9321" points="1462|1285;1785|1479;1554|1300;1602|1312;1647|1345;1693|1372;1731|1416"/>
+    <road city="9321-9326" points="1795|1487;2227|1543;1887|1529;1931|1543;1987|1556;2077|1562"/>
+    <road city="9326-9334" points="2212|1550;2731|1500;2304|1500;2375|1483;2443|1475;2541|1472;2625|1489"/>
+    <road city="9324-9325" points="2033|1008;2208|1243;2106|1062;2145|1102;2179|1147"/>
+    <road city="9325-9326" points="2208|1239;2220|1545;2204|1356;2195|1414;2193|1460"/>
+    <road city="9322-9327" points="2008|281;2389|268;2087|314;2131|325;2183|325;2258|316"/>
+    <road city="9324-9330" points="2022|1010;2272|795;2106|964;2160|933;2210|875"/>
+    <road city="9329-9330" points="2555|597;2277|788;2469|647;2422|680;2361|716"/>
+    <road city="9328-9329" points="2761|311;2552|583;2686|383;2639|419;2583|494"/>
+    <road city="9327-9328" points="2394|252;2777|308;2502|275;2569|286;2647|297"/>
+    <road city="9329-9331" points="2555|613;2789|875;2639|669;2691|713;2747|780"/>
+    <road city="9331-9332" points="2789|900;2650|1252;2750|1011;2722|1072;2686|1147"/>
+    <road city="9333-9332" points="2636|1243;2490|1011;2596|1188;2571|1151;2541|1106"/>
+    <road city="9332-9329" points="2510|1000;2536|601;2508|906;2526|856;2545|791;2568|725"/>
+    <road city="9323-9327" points="2139|529;2393|272;2208|497;2295|435;2360|366"/>
+	<road city="9319-9323" points="1720|726;2126|556;1856|730;1950|698;2038|641"/>
+  </roads>
+</config>
